@@ -1,0 +1,16 @@
+digraph "swp.tuilmenau.carduinodroid.controller.Cam.run"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="swp.tuilmenau.carduinodroid.controller.\lCam.run",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="swp.tuilmenau.carduinodroid.controller.\lCam.Cam",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#a8d39103ae69c076073e36459435c3e6b"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="swp.tuilmenau.carduinodroid.controller.\lCam.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#a690bbb9c9a4a7555c3e439f5b4e1399e"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="swp.tuilmenau.carduinodroid.controller.\lNetwork.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_network.html#a310032de4956f12176e2ab75d9d34851"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___package.html#a5ac59e8b14090f0669452997e1d55a09"];
+  Node5 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+}

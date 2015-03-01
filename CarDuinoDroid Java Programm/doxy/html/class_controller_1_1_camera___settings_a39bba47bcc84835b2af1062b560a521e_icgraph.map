@@ -1,0 +1,6 @@
+<map id="Controller.Camera_Settings.send_change_camera" name="Controller.Camera_Settings.send_change_camera">
+<area shape="rect" id="node2" href="$class_controller_1_1_car___controller.html#aef4ac6e3fece28024f8f9f898899c711" title="Controller.Car_Controller.\lUpdateCamera" alt="" coords="293,37,467,79"/>
+<area shape="rect" id="node5" href="$class_view_1_1_switch_camera_type___action_listener.html#a5565cb7217f12998aec198104044bda4" title="View.SwitchCameraType\l_ActionListener.actionPerformed" alt="" coords="272,103,488,144"/>
+<area shape="rect" id="node3" href="$class_view_1_1_direction___key_listener.html#a330da76dc27e35eaa7d2c5c6699ebab8" title="View.Direction_KeyListener.key\lPressed" alt="" coords="536,5,745,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_direction___key_listener.html#abb54afb2ce915a7285c49a59f5359bc4" title="View.Direction_KeyListener.key\lReleased" alt="" coords="536,71,745,112"/>
+</map>

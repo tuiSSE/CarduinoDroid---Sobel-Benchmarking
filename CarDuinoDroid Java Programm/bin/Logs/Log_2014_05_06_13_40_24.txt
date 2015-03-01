@@ -1,0 +1,16 @@
+06.05.2014 13:40:24 No Rumblers found
+06.05.2014 13:40:35 Connect to: 141.24.110.50
+06.05.2014 13:40:35 Sent: Change resolution to -1.
+06.05.2014 13:40:35 Resolution settings were sent
+06.05.2014 13:40:52 Timeout. Please reconnect
+06.05.2014 13:41:05 Connect to: 141.24.110.50
+06.05.2014 13:41:05 Sent: Change resolution to -1.
+06.05.2014 13:41:05 Resolution settings were sent
+06.05.2014 13:41:11 Sent: Change resolution to 2.
+06.05.2014 13:41:11 Resolution settings were sent
+06.05.2014 13:41:25 Timeout. Please reconnect
+06.05.2014 13:41:31 Connect to: 141.24.110.50
+06.05.2014 13:41:46 Socket_Picture - Fehler beim Verbinden
+06.05.2014 13:41:46 Socket_Controller - Fehler beim Verbinden
+06.05.2014 13:41:46 Socket_Package - Fehler beim Verbinden
+06.05.2014 13:41:46 CarDuinoDroid closed.

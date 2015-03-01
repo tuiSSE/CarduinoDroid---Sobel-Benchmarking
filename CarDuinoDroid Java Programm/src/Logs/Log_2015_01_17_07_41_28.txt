@@ -1,0 +1,26 @@
+17.01.2015 07:41:29 No Rumblers found
+17.01.2015 07:41:39 Connect to: 192.168.2.108
+17.01.2015 07:41:39 Sent: Change resolution to -1.
+17.01.2015 07:41:39 Resolution settings were sent
+17.01.2015 07:42:22 Sent: Change quality to 1.
+17.01.2015 07:42:22 Quality has been changed
+17.01.2015 07:42:47 Sent: Change resolution to 0.
+17.01.2015 07:42:47 Resolution settings were sent
+17.01.2015 07:42:53 Sent: Change resolution to 1.
+17.01.2015 07:42:53 Resolution settings were sent
+17.01.2015 07:43:00 Sent: Change resolution to 2.
+17.01.2015 07:43:00 Resolution settings were sent
+17.01.2015 07:43:13 Sent: Change resolution to 7.
+17.01.2015 07:43:13 Resolution settings were sent
+17.01.2015 07:43:38 Sent: Change quality to 75.
+17.01.2015 07:43:38 Quality has been changed
+17.01.2015 07:43:48 Sent: Change quality to 100.
+17.01.2015 07:43:48 Quality has been changed
+17.01.2015 07:44:13 Sent: Change quality to 71.
+17.01.2015 07:44:13 Quality has been changed
+17.01.2015 07:47:09 Sent: Change quality to 18.
+17.01.2015 07:47:09 Quality has been changed
+17.01.2015 07:47:51 Edge Detection 1
+17.01.2015 07:48:03 Edge Detection 0
+17.01.2015 07:48:09 Edge Detection 1
+17.01.2015 07:49:19 Timeout. Please reconnect

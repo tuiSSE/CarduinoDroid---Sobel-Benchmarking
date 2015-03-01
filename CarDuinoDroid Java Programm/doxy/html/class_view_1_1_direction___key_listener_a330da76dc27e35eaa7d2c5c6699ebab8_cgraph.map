@@ -1,0 +1,11 @@
+<map id="View.Direction_KeyListener.keyPressed" name="View.Direction_KeyListener.keyPressed">
+<area shape="rect" id="node2" href="$class_controller_1_1_car___controller.html#a15020678d17268a794b7385a3e72ea5f" title="Controller.Car_Controller.\lUpdateVariables" alt="" coords="277,5,451,47"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_sound___output.html#a614fad3661aebdc0dc122b4dfdbd02b0" title="Controller.Sound_Output.send\l_output_soundsignal" alt="" coords="263,71,465,112"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_car___controller.html#aef4ac6e3fece28024f8f9f898899c711" title="Controller.Car_Controller.\lUpdateCamera" alt="" coords="277,136,451,177"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_network.html#a0cd2bef3e6087ab3ab39d28b4a57db35" title="Controller.Network.send\l_sound" alt="" coords="540,19,705,60"/>
+<area shape="rect" id="node6" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="816,85,967,111"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_socket___controller.html#a2df08fcd76b146de308fa5a0e117cb34" title="Controller.Socket_Controller.send\l_sound" alt="" coords="780,19,1003,60"/>
+<area shape="rect" id="node8" href="$class_controller_1_1_camera___settings.html#a39bba47bcc84835b2af1062b560a521e" title="Controller.Camera_Settings.send\l_change_camera" alt="" coords="513,136,732,177"/>
+<area shape="rect" id="node9" href="$class_controller_1_1_network.html#a880c5afa94e996a62e78f969dce79d1a" title="Controller.Network.send\l_camera_settings" alt="" coords="809,136,974,177"/>
+<area shape="rect" id="node10" href="$class_controller_1_1_socket___controller.html#a143d54b3c69a8f3ffd01c24c183cb186" title="Controller.Socket_Controller.send\l_camera_settings" alt="" coords="1051,136,1273,177"/>
+</map>

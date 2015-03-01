@@ -1,0 +1,13 @@
+digraph "bin/classes/swp/tuilmenau" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_eb951ff2bb86f2bacf24ddebcb4d8552 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="swp" fontname="Helvetica", fontsize="10", URL="dir_eb951ff2bb86f2bacf24ddebcb4d8552.html"]
+  subgraph clusterdir_52914990c6ce020ed09a4f4ba98c34ca {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_52914990c6ce020ed09a4f4ba98c34ca.html"];
+    dir_52914990c6ce020ed09a4f4ba98c34ca [shape=plaintext label="tuilmenau"];
+    dir_2b222037388aa1b3eabc30027a228f81 [shape=box label="carduinodroid" color="red" fillcolor="white" style="filled" URL="dir_2b222037388aa1b3eabc30027a228f81.html"];
+  }
+  }
+}

@@ -1,0 +1,6 @@
+06.05.2014 13:44:15 No Rumblers found
+06.05.2014 13:44:23 Connect to: 141.24.110.50
+06.05.2014 13:44:38 Socket_Picture - Fehler beim Verbinden
+06.05.2014 13:44:38 Socket_Controller - Fehler beim Verbinden
+06.05.2014 13:44:38 Socket_Package - Fehler beim Verbinden
+06.05.2014 13:44:38 CarDuinoDroid closed.

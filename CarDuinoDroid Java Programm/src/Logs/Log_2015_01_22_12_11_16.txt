@@ -1,0 +1,5 @@
+22.01.2015 12:11:17 No Rumblers found
+22.01.2015 12:11:25 Connect to: 192.168.2.108
+22.01.2015 12:11:26 Sent: Change resolution to -1.
+22.01.2015 12:11:26 Resolution settings were sent
+22.01.2015 12:12:18 CarDuinoDroid closed.

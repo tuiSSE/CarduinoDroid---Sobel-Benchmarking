@@ -1,0 +1,8 @@
+<map id="View.Direction_KeyListener.keyReleased" name="View.Direction_KeyListener.keyReleased">
+<area shape="rect" id="node2" href="$class_controller_1_1_car___controller.html#a15020678d17268a794b7385a3e72ea5f" title="Controller.Car_Controller.\lUpdateVariables" alt="" coords="263,5,436,47"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_car___controller.html#aef4ac6e3fece28024f8f9f898899c711" title="Controller.Car_Controller.\lUpdateCamera" alt="" coords="263,71,436,112"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_camera___settings.html#a39bba47bcc84835b2af1062b560a521e" title="Controller.Camera_Settings.send\l_change_camera" alt="" coords="484,71,703,112"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_network.html#a880c5afa94e996a62e78f969dce79d1a" title="Controller.Network.send\l_camera_settings" alt="" coords="751,41,916,83"/>
+<area shape="rect" id="node7" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="758,107,909,134"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___controller.html#a143d54b3c69a8f3ffd01c24c183cb186" title="Controller.Socket_Controller.send\l_camera_settings" alt="" coords="964,41,1187,83"/>
+</map>

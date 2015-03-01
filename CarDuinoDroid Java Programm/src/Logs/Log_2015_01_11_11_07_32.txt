@@ -1,0 +1,7 @@
+11.01.2015 11:07:33 No Rumblers found
+11.01.2015 11:08:00 Connect to: 192.168.2.108
+11.01.2015 11:08:00 Sent: Change resolution to -1.
+11.01.2015 11:08:00 Resolution settings were sent
+11.01.2015 11:08:02 Edge Detection 1
+11.01.2015 11:08:06 Edge Detection 0
+11.01.2015 11:08:08 CarDuinoDroid closed.

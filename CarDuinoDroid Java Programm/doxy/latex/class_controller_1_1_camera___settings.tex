@@ -1,0 +1,237 @@
+\hypertarget{class_controller_1_1_camera___settings}{}\section{Controller.\+Camera\+\_\+\+Settings Class Reference}
+\label{class_controller_1_1_camera___settings}\index{Controller.\+Camera\+\_\+\+Settings@{Controller.\+Camera\+\_\+\+Settings}}
+
+
+Collaboration diagram for Controller.\+Camera\+\_\+\+Settings\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_controller_1_1_camera___settings_a9a4ac92cf1492034da3a81d870bc0779}{Camera\+\_\+\+Settings} (\hyperlink{class_controller_1_1_controller___computer}{Controller\+\_\+\+Computer} Controller\+Computer)
+\item 
+void \hyperlink{class_controller_1_1_camera___settings_a39bba47bcc84835b2af1062b560a521e}{send\+\_\+change\+\_\+camera} (String cameratype)
+\item 
+void \hyperlink{class_controller_1_1_camera___settings_ad50f0613316fccf38355f44c21b844b8}{send\+\_\+change\+\_\+resolution} (String setting)
+\item 
+void \hyperlink{class_controller_1_1_camera___settings_aa8a94837c96e3f9c0291b14d921f29bc}{send\+\_\+switch\+\_\+light} (String cameralight)
+\item 
+void \hyperlink{class_controller_1_1_camera___settings_aefa4a488f63b68e8e867d11c03ecc8c0}{send\+\_\+change\+\_\+quality} (String Percent)
+\item 
+void \hyperlink{class_controller_1_1_camera___settings_a9d8c0046cda78d43836e47d086a3cd79}{send\+\_\+change\+\_\+filter} (boolean use\+Edge\+Detection)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+methods for sending camera changes \begin{DoxyAuthor}{Author}
+Lars 
+
+Benjamin L 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+12.\+06.\+2012 
+\end{DoxyVersion}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_controller_1_1_camera___settings_a9a4ac92cf1492034da3a81d870bc0779}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!Camera\+\_\+\+Settings@{Camera\+\_\+\+Settings}}
+\index{Camera\+\_\+\+Settings@{Camera\+\_\+\+Settings}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{Camera\+\_\+\+Settings}]{\setlength{\rightskip}{0pt plus 5cm}Controller.\+Camera\+\_\+\+Settings.\+Camera\+\_\+\+Settings (
+\begin{DoxyParamCaption}
+\item[{{\bf Controller\+\_\+\+Computer}}]{Controller\+Computer}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_a9a4ac92cf1492034da3a81d870bc0779}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_controller_1_1_camera___settings_a39bba47bcc84835b2af1062b560a521e}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!send\+\_\+change\+\_\+camera@{send\+\_\+change\+\_\+camera}}
+\index{send\+\_\+change\+\_\+camera@{send\+\_\+change\+\_\+camera}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{send\+\_\+change\+\_\+camera}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Camera\+\_\+\+Settings.\+send\+\_\+change\+\_\+camera (
+\begin{DoxyParamCaption}
+\item[{String}]{cameratype}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_a39bba47bcc84835b2af1062b560a521e}
+With this method you will be able to change the camera type between front and back. It is sending a typical signal to the Android device which will start the \char`\"{}\+Change command\char`\"{}.
+
+
+\begin{DoxyParams}{Parameters}
+{\em cameratype} & Knows if it is the front or back camera \\
+\hline
+\end{DoxyParams}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_a39bba47bcc84835b2af1062b560a521e_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_a39bba47bcc84835b2af1062b560a521e_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_camera___settings_a9d8c0046cda78d43836e47d086a3cd79}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!send\+\_\+change\+\_\+filter@{send\+\_\+change\+\_\+filter}}
+\index{send\+\_\+change\+\_\+filter@{send\+\_\+change\+\_\+filter}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{send\+\_\+change\+\_\+filter}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Camera\+\_\+\+Settings.\+send\+\_\+change\+\_\+filter (
+\begin{DoxyParamCaption}
+\item[{boolean}]{use\+Edge\+Detection}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_a9d8c0046cda78d43836e47d086a3cd79}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_a9d8c0046cda78d43836e47d086a3cd79_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_a9d8c0046cda78d43836e47d086a3cd79_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_camera___settings_aefa4a488f63b68e8e867d11c03ecc8c0}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!send\+\_\+change\+\_\+quality@{send\+\_\+change\+\_\+quality}}
+\index{send\+\_\+change\+\_\+quality@{send\+\_\+change\+\_\+quality}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{send\+\_\+change\+\_\+quality}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Camera\+\_\+\+Settings.\+send\+\_\+change\+\_\+quality (
+\begin{DoxyParamCaption}
+\item[{String}]{Percent}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_aefa4a488f63b68e8e867d11c03ecc8c0}
+
+\begin{DoxyParams}{Parameters}
+{\em Percent} & \\
+\hline
+\end{DoxyParams}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_aefa4a488f63b68e8e867d11c03ecc8c0_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_aefa4a488f63b68e8e867d11c03ecc8c0_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_camera___settings_ad50f0613316fccf38355f44c21b844b8}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!send\+\_\+change\+\_\+resolution@{send\+\_\+change\+\_\+resolution}}
+\index{send\+\_\+change\+\_\+resolution@{send\+\_\+change\+\_\+resolution}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{send\+\_\+change\+\_\+resolution}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Camera\+\_\+\+Settings.\+send\+\_\+change\+\_\+resolution (
+\begin{DoxyParamCaption}
+\item[{String}]{setting}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_ad50f0613316fccf38355f44c21b844b8}
+The second important part is to change the resolution of your camera. This is important for lowering your traffic and maybe your built-\/in camera is not able to send in the chosen resolution.
+
+
+\begin{DoxyParams}{Parameters}
+{\em setting} & Save the chosen Resolution by itemindex \\
+\hline
+\end{DoxyParams}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_ad50f0613316fccf38355f44c21b844b8_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_ad50f0613316fccf38355f44c21b844b8_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_camera___settings_aa8a94837c96e3f9c0291b14d921f29bc}{}\index{Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}!send\+\_\+switch\+\_\+light@{send\+\_\+switch\+\_\+light}}
+\index{send\+\_\+switch\+\_\+light@{send\+\_\+switch\+\_\+light}!Controller\+::\+Camera\+\_\+\+Settings@{Controller\+::\+Camera\+\_\+\+Settings}}
+\subsubsection[{send\+\_\+switch\+\_\+light}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Camera\+\_\+\+Settings.\+send\+\_\+switch\+\_\+light (
+\begin{DoxyParamCaption}
+\item[{String}]{cameralight}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_camera___settings_aa8a94837c96e3f9c0291b14d921f29bc}
+At a dark night or twilight u need to switch on a light to see what is in front of your car. Sometimes it can be helpful to have an enlightened place.
+
+
+\begin{DoxyParams}{Parameters}
+{\em cameralight} & Variable for turning light on or off \\
+\hline
+\end{DoxyParams}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_aa8a94837c96e3f9c0291b14d921f29bc_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_camera___settings_aa8a94837c96e3f9c0291b14d921f29bc_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/\+Honzo/\+Documents/facharbeiten/studienarbeit\+\_\+code/studienarbeit\+\_\+code/\+Car\+Duino\+Droid Java Programm/src/\+Controller/\hyperlink{_camera___settings_8java}{Camera\+\_\+\+Settings.\+java}\end{DoxyCompactItemize}

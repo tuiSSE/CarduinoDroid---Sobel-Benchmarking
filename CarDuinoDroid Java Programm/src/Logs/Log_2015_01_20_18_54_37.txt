@@ -1,0 +1,38 @@
+20.01.2015 18:54:38 No Rumblers found
+20.01.2015 18:54:47 Connect to: 192.168.2.108
+20.01.2015 18:54:47 Sent: Change resolution to -1.
+20.01.2015 18:54:47 Resolution settings were sent
+20.01.2015 18:54:58 Timeout. Please reconnect
+20.01.2015 18:55:37 Connect to: 192.168.2.108
+20.01.2015 18:55:37 Sent: Change resolution to -1.
+20.01.2015 18:55:37 Resolution settings were sent
+20.01.2015 18:57:50 Timeout. Please reconnect
+20.01.2015 18:57:59 Connect to: 192.168.2.108
+20.01.2015 18:57:59 Socket_Performance_Analyzer - Fehler beim Verbinden
+20.01.2015 18:57:59 Sent: Change resolution to -1.
+20.01.2015 18:57:59 Resolution settings were sent
+20.01.2015 18:58:49 Connect to: 192.168.2.108
+20.01.2015 18:58:49 Socket_Performance_Analyzer - Fehler beim Verbinden
+20.01.2015 19:00:14 Timeout. Please reconnect
+20.01.2015 19:00:45 Connect to: 192.168.2.108
+20.01.2015 19:00:45 Sent: Change resolution to -1.
+20.01.2015 19:00:45 Resolution settings were sent
+20.01.2015 19:00:56 Timeout. Please reconnect
+20.01.2015 19:02:26 Connect to: 192.168.2.108
+20.01.2015 19:02:27 Socket_Picture - Fehler beim Verbinden
+20.01.2015 19:02:27 Socket_Controller - Fehler beim Verbinden
+20.01.2015 19:02:27 Socket_Package - Fehler beim Verbinden
+20.01.2015 19:02:27 Socket_Performance_Analyzer - Fehler beim Verbinden
+20.01.2015 19:02:37 Timeout. Please reconnect
+20.01.2015 19:03:36 Connect to: 192.168.2.108
+20.01.2015 19:03:36 Sent: Change resolution to -1.
+20.01.2015 19:03:36 Resolution settings were sent
+20.01.2015 19:03:47 Timeout. Please reconnect
+20.01.2015 19:06:36 Connect to: 192.168.2.108
+20.01.2015 19:06:37 Sent: Change resolution to -1.
+20.01.2015 19:06:37 Resolution settings were sent
+20.01.2015 19:08:30 Timeout. Please reconnect
+20.01.2015 19:09:06 Connect to: 192.168.2.108
+20.01.2015 19:09:07 Sent: Change resolution to -1.
+20.01.2015 19:09:07 Resolution settings were sent
+20.01.2015 19:10:05 Timeout. Please reconnect

@@ -1,0 +1,36 @@
+15.02.2015 09:05:06 No Rumblers found
+15.02.2015 09:05:18 Connect to: 192.168.2.111
+15.02.2015 09:05:18 Sent: Change resolution to -1.
+15.02.2015 09:05:18 Resolution settings were sent
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 24
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 5
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 43
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 17
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 8
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 10
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 24
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 35
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 42
+15.02.2015 09:05:22 Timestamp requested
+15.02.2015 09:05:22 Timestamp received
+15.02.2015 09:05:22 rtt: 14
+15.02.2015 09:05:22 timediff: 1384
+15.02.2015 09:15:04 CarDuinoDroid closed.

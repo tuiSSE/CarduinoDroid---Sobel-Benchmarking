@@ -1,0 +1,8 @@
+<map id="Controller.Packagedata.GetBatteryLevel" name="Controller.Packagedata.GetBatteryLevel">
+<area shape="rect" id="node2" href="$class_controller_1_1_camera___picture.html#a8238414f569f7b746f538415c19580ee" title="Controller.Camera_Picture.\lLoadPicture" alt="" coords="240,39,424,80"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_camera___picture.html#a6c023933f9516c247c15326db445966c" title="Controller.Camera_Picture.receive\l_picture" alt="" coords="472,5,699,47"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_camera___picture.html#af29e712d375616bb2275215f3ebdc397" title="Controller.Camera_Picture.\lUpdateDirection" alt="" coords="493,71,677,112"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_network.html#a124b367a9c620d675753ec40c6de9ddc" title="Controller.Network.receive\l_picture" alt="" coords="747,5,925,47"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_socket___picture.html#a7dd51a154509634a49d6fe67b1da78a6" title="Controller.Socket_Picture.run" alt="" coords="973,13,1169,39"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___picture.html#aa966da35d5df22360655ecc609a223c5" title="Controller.Socket_Picture.connect" alt="" coords="1217,13,1441,39"/>
+</map>

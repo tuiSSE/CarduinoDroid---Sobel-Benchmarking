@@ -1,0 +1,14 @@
+14.04.2014 15:15:26 No Rumblers found
+14.04.2014 15:15:44 Connect to: 141.24.11.17
+14.04.2014 15:15:44 Sent: Change resolution to -1.
+14.04.2014 15:15:44 Resolution settings were sent
+14.04.2014 15:16:10 Sent: Change quality to 9.
+14.04.2014 15:16:10 Quality has been changed
+14.04.2014 15:16:20 Sent: Change resolution to 2.
+14.04.2014 15:16:20 Resolution settings were sent
+14.04.2014 15:16:45 Sound signal was sent
+14.04.2014 15:16:49 Sent: Switch camera light on.
+14.04.2014 15:16:49 Camera light was switched
+14.04.2014 15:16:51 Sent: Switch camera light off.
+14.04.2014 15:16:51 Camera light was switched
+14.04.2014 15:16:56 CarDuinoDroid closed.

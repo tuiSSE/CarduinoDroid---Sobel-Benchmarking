@@ -1,0 +1,3 @@
+10.01.2015 16:46:28 No Rumblers found
+10.01.2015 16:46:42 Connect to: 192.168.2.108
+10.01.2015 16:47:22 Edge Detection 1

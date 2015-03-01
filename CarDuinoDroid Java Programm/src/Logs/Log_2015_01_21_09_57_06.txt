@@ -1,0 +1,44 @@
+21.01.2015 09:57:07 No Rumblers found
+21.01.2015 09:57:17 Connect to: 192.168.2.108
+21.01.2015 09:57:17 Sent: Change resolution to -1.
+21.01.2015 09:57:17 Resolution settings were sent
+21.01.2015 09:57:20 Timestamp requested
+21.01.2015 09:57:20 Could not receive Timestamp
+21.01.2015 09:57:22 Timestamp requested
+21.01.2015 09:57:22 Timestamp received
+21.01.2015 09:57:31 Timestamp requested
+21.01.2015 09:57:31 Timestamp received
+21.01.2015 09:57:33 Timestamp requested
+21.01.2015 09:57:33 Timestamp received
+21.01.2015 09:57:35 Timestamp requested
+21.01.2015 09:57:35 Timestamp received
+21.01.2015 09:57:37 Timestamp requested
+21.01.2015 09:57:37 Timestamp received
+21.01.2015 09:57:39 Timestamp requested
+21.01.2015 09:57:39 Timestamp received
+21.01.2015 09:57:40 Timestamp requested
+21.01.2015 09:57:40 Timestamp received
+21.01.2015 09:57:41 Timestamp requested
+21.01.2015 09:57:41 Timestamp received
+21.01.2015 09:57:43 Timestamp requested
+21.01.2015 09:57:43 Timestamp received
+21.01.2015 09:57:44 Timestamp requested
+21.01.2015 09:57:44 Timestamp received
+21.01.2015 09:57:45 Timestamp requested
+21.01.2015 09:57:45 Timestamp received
+21.01.2015 09:57:46 Timestamp requested
+21.01.2015 09:57:46 Timestamp received
+21.01.2015 09:57:47 Timestamp requested
+21.01.2015 09:57:47 Timestamp received
+21.01.2015 09:57:48 Timestamp requested
+21.01.2015 09:57:48 Timestamp received
+21.01.2015 09:57:49 Timestamp requested
+21.01.2015 09:57:49 Timestamp received
+21.01.2015 09:57:51 Timestamp requested
+21.01.2015 09:57:51 Timestamp received
+21.01.2015 09:57:53 Timestamp requested
+21.01.2015 09:57:53 Timestamp received
+21.01.2015 09:57:54 Timestamp requested
+21.01.2015 09:57:54 Timestamp received
+21.01.2015 09:57:55 Timestamp requested
+21.01.2015 09:57:55 Timestamp received

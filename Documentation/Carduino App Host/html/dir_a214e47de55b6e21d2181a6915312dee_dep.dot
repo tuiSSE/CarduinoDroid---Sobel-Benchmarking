@@ -1,0 +1,9 @@
+digraph "gen/swp/tuilmenau/carduinodroid" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_f9bb74d5388a7621b12b1ac9dfb0fc60 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="tuilmenau" fontname="Helvetica", fontsize="10", URL="dir_f9bb74d5388a7621b12b1ac9dfb0fc60.html"]
+  dir_a214e47de55b6e21d2181a6915312dee [shape=box, label="carduinodroid", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_a214e47de55b6e21d2181a6915312dee.html"];
+  }
+}

@@ -1,0 +1,13 @@
+16.01.2015 17:18:56 No Rumblers found
+16.01.2015 17:19:11 Connect to: 192.168.2.108
+16.01.2015 17:19:34 Sent: Change quality to 1.
+16.01.2015 17:19:34 Quality has been changed
+16.01.2015 17:19:43 Edge Detection 1
+16.01.2015 17:19:53 Edge Detection 0
+16.01.2015 17:19:55 Edge Detection 1
+16.01.2015 17:20:02 Edge Detection 0
+16.01.2015 17:20:21 Sent: Change quality to 33.
+16.01.2015 17:20:21 Quality has been changed
+16.01.2015 17:20:27 Edge Detection 1
+16.01.2015 17:20:48 Timeout. Please reconnect
+16.01.2015 17:20:49 CarDuinoDroid closed.

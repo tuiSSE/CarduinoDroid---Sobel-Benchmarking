@@ -1,0 +1,6 @@
+digraph "jni" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_efeae7433ac041c834ba5e537166dd1d [shape=box, label="jni", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_efeae7433ac041c834ba5e537166dd1d.html"];
+}

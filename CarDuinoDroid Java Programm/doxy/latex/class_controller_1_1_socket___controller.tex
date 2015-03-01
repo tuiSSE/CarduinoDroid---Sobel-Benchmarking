@@ -1,0 +1,166 @@
+\hypertarget{class_controller_1_1_socket___controller}{}\section{Controller.\+Socket\+\_\+\+Controller Class Reference}
+\label{class_controller_1_1_socket___controller}\index{Controller.\+Socket\+\_\+\+Controller@{Controller.\+Socket\+\_\+\+Controller}}
+
+
+Collaboration diagram for Controller.\+Socket\+\_\+\+Controller\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=257pt]{class_controller_1_1_socket___controller__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+boolean \hyperlink{class_controller_1_1_socket___controller_a29b570104991b9a087f5a100c8cf368e}{connect} (Inet\+Socket\+Address port\+\_\+controll)
+\item 
+boolean \hyperlink{class_controller_1_1_socket___controller_a48847c95b991adf579a282a45e19f79e}{send\+\_\+controllsignal} (String direction)
+\item 
+boolean \hyperlink{class_controller_1_1_socket___controller_a143d54b3c69a8f3ffd01c24c183cb186}{send\+\_\+camera\+\_\+settings} (String settings)
+\item 
+boolean \hyperlink{class_controller_1_1_socket___controller_a2df08fcd76b146de308fa5a0e117cb34}{send\+\_\+sound} (String sound\+\_\+id)
+\item 
+void \hyperlink{class_controller_1_1_socket___controller_a277036a9029a0289a8f370e73484c212}{close} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This class is used to send Controllsignals to the Android-\/\+Application \begin{DoxyAuthor}{Author}
+Robin 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+18.\+06.\+2012 
+\end{DoxyVersion}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_controller_1_1_socket___controller_a277036a9029a0289a8f370e73484c212}{}\index{Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}!close@{close}}
+\index{close@{close}!Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}}
+\subsubsection[{close}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Socket\+\_\+\+Controller.\+close (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_socket___controller_a277036a9029a0289a8f370e73484c212}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_socket___controller_a277036a9029a0289a8f370e73484c212_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_socket___controller_a29b570104991b9a087f5a100c8cf368e}{}\index{Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}!connect@{connect}}
+\index{connect@{connect}!Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}}
+\subsubsection[{connect}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Socket\+\_\+\+Controller.\+connect (
+\begin{DoxyParamCaption}
+\item[{Inet\+Socket\+Address}]{port\+\_\+controll}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_socket___controller_a29b570104991b9a087f5a100c8cf368e}
+Connect the Socket to the Android-\/\+Application 
+\begin{DoxyParams}{Parameters}
+{\em port\+\_\+controll} & The Address from the Android-\/\+Application \\
+\hline
+\end{DoxyParams}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_socket___controller_a29b570104991b9a087f5a100c8cf368e_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_socket___controller_a143d54b3c69a8f3ffd01c24c183cb186}{}\index{Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}!send\+\_\+camera\+\_\+settings@{send\+\_\+camera\+\_\+settings}}
+\index{send\+\_\+camera\+\_\+settings@{send\+\_\+camera\+\_\+settings}!Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}}
+\subsubsection[{send\+\_\+camera\+\_\+settings}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Socket\+\_\+\+Controller.\+send\+\_\+camera\+\_\+settings (
+\begin{DoxyParamCaption}
+\item[{String}]{settings}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_socket___controller_a143d54b3c69a8f3ffd01c24c183cb186}
+Sends the Camerasettings to the Android-\/\+Application 
+\begin{DoxyParams}{Parameters}
+{\em settings} & The Camerasettings \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True if successful 
+\end{DoxyReturn}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_socket___controller_a143d54b3c69a8f3ffd01c24c183cb186_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_socket___controller_a48847c95b991adf579a282a45e19f79e}{}\index{Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}!send\+\_\+controllsignal@{send\+\_\+controllsignal}}
+\index{send\+\_\+controllsignal@{send\+\_\+controllsignal}!Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}}
+\subsubsection[{send\+\_\+controllsignal}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Socket\+\_\+\+Controller.\+send\+\_\+controllsignal (
+\begin{DoxyParamCaption}
+\item[{String}]{direction}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_socket___controller_a48847c95b991adf579a282a45e19f79e}
+Sends the Carcontrollsignal to the Android-\/\+Application 
+\begin{DoxyParams}{Parameters}
+{\em direction} & The Signal \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True if successful 
+\end{DoxyReturn}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_socket___controller_a48847c95b991adf579a282a45e19f79e_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_socket___controller_a2df08fcd76b146de308fa5a0e117cb34}{}\index{Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}!send\+\_\+sound@{send\+\_\+sound}}
+\index{send\+\_\+sound@{send\+\_\+sound}!Controller\+::\+Socket\+\_\+\+Controller@{Controller\+::\+Socket\+\_\+\+Controller}}
+\subsubsection[{send\+\_\+sound}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Socket\+\_\+\+Controller.\+send\+\_\+sound (
+\begin{DoxyParamCaption}
+\item[{String}]{sound\+\_\+id}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_socket___controller_a2df08fcd76b146de308fa5a0e117cb34}
+Sends soundrecording or soundoutput signals to the Android-\/\+Application 
+\begin{DoxyParams}{Parameters}
+{\em sound\+\_\+id} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True if successful 
+\end{DoxyReturn}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_socket___controller_a2df08fcd76b146de308fa5a0e117cb34_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/\+Honzo/\+Documents/facharbeiten/studienarbeit\+\_\+code/studienarbeit\+\_\+code/\+Car\+Duino\+Droid Java Programm/src/\+Controller/\hyperlink{_socket___controller_8java}{Socket\+\_\+\+Controller.\+java}\end{DoxyCompactItemize}

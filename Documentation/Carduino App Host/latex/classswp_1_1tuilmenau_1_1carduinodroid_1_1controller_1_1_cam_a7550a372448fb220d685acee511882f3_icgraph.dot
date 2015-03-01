@@ -1,0 +1,13 @@
+digraph "swp.tuilmenau.carduinodroid.controller.Cam.switchCam"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="swp.tuilmenau.carduinodroid.controller.\lCam.switchCam",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="swp.tuilmenau.carduinodroid.controller.\lController_Android.receiveData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_controller___android.html#aee7580998e493c8fafa0ddd0dff31704"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="swp.tuilmenau.carduinodroid.controller.\lNetwork.receive_controll",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_network.html#a3bdf599c2a8dfadbe3b2d8e7c00b8ab0"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Controller.run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___controller.html#a490674a59c3992603e27ef75821e61d6"];
+}

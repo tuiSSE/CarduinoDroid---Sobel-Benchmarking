@@ -1,0 +1,99 @@
+19.02.2015 12:55:21 No Rumblers found
+19.02.2015 12:55:47 Connect to: 192.168.2.111
+19.02.2015 12:55:48 Sent: Change resolution to -1.
+19.02.2015 12:55:48 Resolution settings were sent
+19.02.2015 12:55:50 Edge Detection 1
+19.02.2015 12:56:08 Timeout. Please reconnect
+19.02.2015 12:58:44 Connect to: 192.168.2.111
+19.02.2015 12:58:45 Sent: Change resolution to -1.
+19.02.2015 12:58:45 Resolution settings were sent
+19.02.2015 12:58:57 Edge Detection 0
+19.02.2015 12:58:59 Timestamp requested
+19.02.2015 12:58:59 Timestamp received
+19.02.2015 12:58:59 rtt: 48
+19.02.2015 12:58:59 Timestamp requested
+19.02.2015 12:58:59 Timestamp received
+19.02.2015 12:58:59 rtt: 113
+19.02.2015 12:58:59 Timestamp requested
+19.02.2015 12:58:59 Timestamp received
+19.02.2015 12:58:59 rtt: 87
+19.02.2015 12:58:59 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 124
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 162
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 124
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 112
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 104
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 64
+19.02.2015 12:59:00 Timestamp requested
+19.02.2015 12:59:00 Timestamp received
+19.02.2015 12:59:00 rtt: 127
+19.02.2015 12:59:00 timediff: -656
+19.02.2015 12:59:29 Edge Detection 1
+19.02.2015 12:59:57 Timeout. Please reconnect
+19.02.2015 13:09:03 Connect to: 192.168.2.111
+19.02.2015 13:09:03 Sent: Change resolution to -1.
+19.02.2015 13:09:03 Resolution settings were sent
+19.02.2015 13:09:08 Edge Detection 0
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 6
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 8
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 14
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 7
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 70
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 8
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 20
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 23
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 5
+19.02.2015 13:09:11 Timestamp requested
+19.02.2015 13:09:11 Timestamp received
+19.02.2015 13:09:11 rtt: 5
+19.02.2015 13:09:11 timediff: -148
+19.02.2015 13:09:16 Edge Detection 1
+19.02.2015 13:09:30 Timeout. Please reconnect
+19.02.2015 13:18:19 Connect to: 192.168.2.111
+19.02.2015 13:18:19 Sent: Change resolution to -1.
+19.02.2015 13:18:19 Resolution settings were sent
+19.02.2015 13:18:25 Edge Detection 0
+19.02.2015 13:18:27 Edge Detection 1
+19.02.2015 13:18:43 Timeout. Please reconnect
+19.02.2015 13:34:39 Connect to: 192.168.2.111
+19.02.2015 13:34:39 Sent: Change resolution to -1.
+19.02.2015 13:34:39 Resolution settings were sent
+19.02.2015 13:34:44 Edge Detection 0
+19.02.2015 13:34:45 Edge Detection 1
+19.02.2015 13:35:07 Timeout. Please reconnect
+19.02.2015 13:38:54 Connect to: 192.168.2.111
+19.02.2015 13:38:54 Sent: Change resolution to -1.
+19.02.2015 13:38:54 Resolution settings were sent
+19.02.2015 13:38:58 Edge Detection 0
+19.02.2015 13:39:03 Edge Detection 1
+19.02.2015 13:39:06 Edge Detection 0
+19.02.2015 13:39:10 CarDuinoDroid closed.

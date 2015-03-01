@@ -1,0 +1,8 @@
+<map id="View.Resolution_ActionListener.actionPerformed" name="View.Resolution_ActionListener.actionPerformed">
+<area shape="rect" id="node2" href="$class_view_1_1_g_u_i___computer.html#a5dad382c7f9afa1b4b52ebe3e8223236" title="View.GUI_Computer.getFilled" alt="" coords="313,5,511,32"/>
+<area shape="rect" id="node3" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="577,56,727,83"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_camera___settings.html#ad50f0613316fccf38355f44c21b844b8" title="Controller.Camera_Settings.send\l_change_resolution" alt="" coords="303,107,521,149"/>
+<area shape="rect" id="node7" href="$class_view_1_1_g_u_i___computer.html#a6aa4304d849922f381fe8f96eb7c9467" title="View.GUI_Computer.setFilled" alt="" coords="313,173,511,200"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_network.html#a880c5afa94e996a62e78f969dce79d1a" title="Controller.Network.send\l_camera_settings" alt="" coords="569,107,735,149"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___controller.html#a143d54b3c69a8f3ffd01c24c183cb186" title="Controller.Socket_Controller.send\l_camera_settings" alt="" coords="783,107,1005,149"/>
+</map>

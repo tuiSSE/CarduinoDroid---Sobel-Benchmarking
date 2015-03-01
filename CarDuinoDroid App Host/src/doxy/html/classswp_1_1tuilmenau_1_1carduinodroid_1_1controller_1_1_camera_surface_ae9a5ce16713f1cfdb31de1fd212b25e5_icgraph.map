@@ -1,0 +1,7 @@
+<map id="swp.tuilmenau.carduinodroid.controller.CameraSurface.setCallback" name="swp.tuilmenau.carduinodroid.controller.CameraSurface.setCallback">
+<area shape="rect" id="node2" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#a7550a372448fb220d685acee511882f3" title="swp.tuilmenau.carduinodroid.controller.\lCam.switchCam" alt="" coords="307,5,560,47"/>
+<area shape="rect" id="node6" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#a14be40feed14460ce45a254bb9d5573d" title="swp.tuilmenau.carduinodroid.controller.\lCam.changeRes" alt="" coords="307,71,560,112"/>
+<area shape="rect" id="node3" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_controller___android.html#aee7580998e493c8fafa0ddd0dff31704" title="swp.tuilmenau.carduinodroid.controller.\lController_Android.receiveData" alt="" coords="608,39,861,80"/>
+<area shape="rect" id="node4" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_network.html#a3bdf599c2a8dfadbe3b2d8e7c00b8ab0" title="swp.tuilmenau.carduinodroid.controller.\lNetwork.receive_controll" alt="" coords="909,5,1163,47"/>
+<area shape="rect" id="node5" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___controller.html#a490674a59c3992603e27ef75821e61d6" title="swp.tuilmenau.carduinodroid.controller.\lSocket_Controller.run" alt="" coords="909,71,1163,112"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Controller.Network.send_camera_settings" name="Controller.Network.send_camera_settings">
+<area shape="rect" id="node2" href="$class_controller_1_1_camera___settings.html#a39bba47bcc84835b2af1062b560a521e" title="Controller.Camera_Settings.send\l_change_camera" alt="" coords="219,103,437,144"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_camera___settings.html#ad50f0613316fccf38355f44c21b844b8" title="Controller.Camera_Settings.send\l_change_resolution" alt="" coords="219,168,437,209"/>
+<area shape="rect" id="node9" href="$class_controller_1_1_camera___settings.html#aa8a94837c96e3f9c0291b14d921f29bc" title="Controller.Camera_Settings.send\l_switch_light" alt="" coords="219,233,437,275"/>
+<area shape="rect" id="node11" href="$class_controller_1_1_camera___settings.html#aefa4a488f63b68e8e867d11c03ecc8c0" title="Controller.Camera_Settings.send\l_change_quality" alt="" coords="219,299,437,340"/>
+<area shape="rect" id="node13" href="$class_controller_1_1_camera___settings.html#a9d8c0046cda78d43836e47d086a3cd79" title="Controller.Camera_Settings.send\l_change_filter" alt="" coords="219,364,437,405"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_car___controller.html#aef4ac6e3fece28024f8f9f898899c711" title="Controller.Car_Controller.\lUpdateCamera" alt="" coords="534,37,707,79"/>
+<area shape="rect" id="node6" href="$class_view_1_1_switch_camera_type___action_listener.html#a5565cb7217f12998aec198104044bda4" title="View.SwitchCameraType\l_ActionListener.actionPerformed" alt="" coords="513,103,729,144"/>
+<area shape="rect" id="node4" href="$class_view_1_1_direction___key_listener.html#a330da76dc27e35eaa7d2c5c6699ebab8" title="View.Direction_KeyListener.key\lPressed" alt="" coords="804,5,1013,47"/>
+<area shape="rect" id="node5" href="$class_view_1_1_direction___key_listener.html#abb54afb2ce915a7285c49a59f5359bc4" title="View.Direction_KeyListener.key\lReleased" alt="" coords="804,71,1013,112"/>
+<area shape="rect" id="node8" href="$class_view_1_1_resolution___action_listener.html#a1462cb188e57eb40397ed9d9da12c066" title="View.Resolution_ActionListener.action\lPerformed" alt="" coords="496,168,745,209"/>
+<area shape="rect" id="node10" href="$class_view_1_1_light___action_listener.html#a8f75ad437e0e060b38f426865ae98162" title="View.Light_ActionListener.action\lPerformed" alt="" coords="513,233,728,275"/>
+<area shape="rect" id="node12" href="$class_view_1_1_quality___mouse_listener.html#a398f98ad5454bb4f713798c3ba4eb177" title="View.Quality_MouseListener.mouse\lReleased" alt="" coords="503,299,738,340"/>
+<area shape="rect" id="node14" href="$class_view_1_1_ed___check_box___action_listener.html#af33430df078ede5ecefcb8b700245737" title="View.Ed_CheckBox_ActionListener.action\lPerformed" alt="" coords="485,364,756,405"/>
+</map>

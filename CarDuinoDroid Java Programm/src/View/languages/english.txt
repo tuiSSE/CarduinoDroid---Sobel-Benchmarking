@@ -1,0 +1,31 @@
+File
+Quit
+Connection
+About CarDuinoDroid
+Preferences
+Light
+Camera
+Frontcamera
+Backcamera
+Map
+Resolution
+Coordinates
+Enter ip-adress of objective system
+Signal
+Sound-record
+Speed
+Angle
+Latitude
+Longitude
+IP
+Connect
+CarDuinoDroid is a software for controlling a drone which is based on an Android-Smartphone.
+For more information visit
+https://carl-adam.theoinf.tu-ilmenau.de/trac/swp_s12_12
+Language
+OK
+Changes will not be visible until restarting the program.
+quality
+Pad
+Edge Image
+Sync Clocks

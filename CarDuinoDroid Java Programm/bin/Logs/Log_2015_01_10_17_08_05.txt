@@ -1,0 +1,70 @@
+10.01.2015 17:08:05 No Rumblers found
+10.01.2015 17:08:16 Connect to: 192.168.2.108
+10.01.2015 17:08:17 Sent: Change resolution to -1.
+10.01.2015 17:08:17 Resolution settings were sent
+10.01.2015 17:08:46 Edge Detection 1
+10.01.2015 17:10:25 Timeout. Please reconnect
+10.01.2015 17:10:38 Connect to: 192.168.2.108
+10.01.2015 17:10:38 Sent: Change resolution to -1.
+10.01.2015 17:10:38 Resolution settings were sent
+10.01.2015 17:10:48 Edge Detection 0
+10.01.2015 17:10:49 Edge Detection 1
+10.01.2015 17:10:53 Sent: Change resolution to 3.
+10.01.2015 17:10:53 Resolution settings were sent
+10.01.2015 17:10:57 Edge Detection 0
+10.01.2015 17:10:59 Edge Detection 1
+10.01.2015 17:11:01 Edge Detection 0
+10.01.2015 17:11:05 Edge Detection 1
+10.01.2015 17:11:12 Edge Detection 0
+10.01.2015 17:11:13 Edge Detection 1
+10.01.2015 17:11:23 Edge Detection 0
+10.01.2015 17:11:41 Edge Detection 1
+10.01.2015 17:11:47 Edge Detection 0
+10.01.2015 17:11:47 Edge Detection 1
+10.01.2015 17:11:48 Edge Detection 0
+10.01.2015 17:11:49 Edge Detection 1
+10.01.2015 17:11:50 Edge Detection 0
+10.01.2015 17:11:51 Edge Detection 1
+10.01.2015 17:11:56 Edge Detection 0
+10.01.2015 17:11:57 Edge Detection 1
+10.01.2015 17:12:00 Edge Detection 0
+10.01.2015 17:12:00 Edge Detection 1
+10.01.2015 17:12:01 Edge Detection 0
+10.01.2015 17:12:02 Edge Detection 1
+10.01.2015 17:12:03 Edge Detection 0
+10.01.2015 17:12:03 Edge Detection 1
+10.01.2015 17:12:05 Edge Detection 0
+10.01.2015 17:12:09 Edge Detection 1
+10.01.2015 17:12:12 Edge Detection 0
+10.01.2015 17:12:13 Edge Detection 1
+10.01.2015 17:12:14 Edge Detection 0
+10.01.2015 17:12:15 Edge Detection 1
+10.01.2015 17:12:22 Edge Detection 0
+10.01.2015 17:12:23 Edge Detection 1
+10.01.2015 17:12:24 Edge Detection 0
+10.01.2015 17:12:25 Edge Detection 1
+10.01.2015 17:12:26 Edge Detection 0
+10.01.2015 17:12:26 Edge Detection 1
+10.01.2015 17:12:27 Edge Detection 0
+10.01.2015 17:12:28 Edge Detection 1
+10.01.2015 17:12:29 Edge Detection 0
+10.01.2015 17:12:29 Edge Detection 1
+10.01.2015 17:12:30 Edge Detection 0
+10.01.2015 17:12:32 Edge Detection 1
+10.01.2015 17:12:36 Edge Detection 0
+10.01.2015 17:12:36 Edge Detection 1
+10.01.2015 17:12:37 Edge Detection 0
+10.01.2015 17:12:38 Edge Detection 1
+10.01.2015 17:12:40 Edge Detection 0
+10.01.2015 17:12:41 Edge Detection 1
+10.01.2015 17:12:43 Edge Detection 0
+10.01.2015 17:12:44 Edge Detection 1
+10.01.2015 17:12:47 Edge Detection 0
+10.01.2015 17:12:48 Edge Detection 1
+10.01.2015 17:12:49 Edge Detection 0
+10.01.2015 17:12:49 Edge Detection 1
+10.01.2015 17:12:50 Edge Detection 0
+10.01.2015 17:12:53 Edge Detection 1
+10.01.2015 17:12:54 Edge Detection 0
+10.01.2015 17:13:11 Timeout. Please reconnect
+10.01.2015 17:24:38 CarDuinoDroid closed.

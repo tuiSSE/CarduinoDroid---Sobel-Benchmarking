@@ -1,0 +1,56 @@
+21.01.2015 09:59:46 No Rumblers found
+21.01.2015 10:00:05 Connect to: 192.168.2.108
+21.01.2015 10:00:05 Sent: Change resolution to -1.
+21.01.2015 10:00:05 Resolution settings were sent
+21.01.2015 10:00:08 Timestamp requested
+21.01.2015 10:00:08 Could not receive Timestamp
+21.01.2015 10:00:08 timediff: 1421830808251
+21.01.2015 10:00:11 Timestamp requested
+21.01.2015 10:00:11 Timestamp received
+21.01.2015 10:00:11 timediff: 4034
+21.01.2015 10:00:13 Timestamp requested
+21.01.2015 10:00:13 Timestamp received
+21.01.2015 10:00:13 timediff: 2802
+21.01.2015 10:00:15 Timestamp requested
+21.01.2015 10:00:15 Timestamp received
+21.01.2015 10:00:15 timediff: 2280
+21.01.2015 10:00:17 Timestamp requested
+21.01.2015 10:00:17 Timestamp received
+21.01.2015 10:00:17 timediff: 2250
+21.01.2015 10:00:18 Timestamp requested
+21.01.2015 10:00:18 Timestamp received
+21.01.2015 10:00:18 timediff: 1832
+21.01.2015 10:00:20 Timestamp requested
+21.01.2015 10:00:20 Timestamp received
+21.01.2015 10:00:20 timediff: 2259
+21.01.2015 10:00:21 Timestamp requested
+21.01.2015 10:00:21 Timestamp received
+21.01.2015 10:00:21 timediff: 1945
+21.01.2015 10:00:22 Timestamp requested
+21.01.2015 10:00:22 Timestamp received
+21.01.2015 10:00:22 timediff: 1818
+21.01.2015 10:00:24 Timestamp requested
+21.01.2015 10:00:24 Timestamp received
+21.01.2015 10:00:24 timediff: 1810
+21.01.2015 10:00:25 Timestamp requested
+21.01.2015 10:00:25 Timestamp received
+21.01.2015 10:00:25 timediff: 1768
+21.01.2015 10:00:26 Timestamp requested
+21.01.2015 10:00:26 Timestamp received
+21.01.2015 10:00:26 timediff: 1638
+21.01.2015 10:00:27 Timestamp requested
+21.01.2015 10:00:27 Timestamp received
+21.01.2015 10:00:27 timediff: 1441
+21.01.2015 10:00:27 Timestamp requested
+21.01.2015 10:00:27 Timestamp received
+21.01.2015 10:00:27 timediff: 1078
+21.01.2015 10:00:28 Timestamp requested
+21.01.2015 10:00:28 Timestamp received
+21.01.2015 10:00:28 timediff: 1267
+21.01.2015 10:00:29 Timestamp requested
+21.01.2015 10:00:29 Timestamp received
+21.01.2015 10:00:29 timediff: 1203
+21.01.2015 10:00:30 Timestamp requested
+21.01.2015 10:00:30 Timestamp received
+21.01.2015 10:00:30 timediff: 1177
+21.01.2015 10:03:26 Timeout. Please reconnect

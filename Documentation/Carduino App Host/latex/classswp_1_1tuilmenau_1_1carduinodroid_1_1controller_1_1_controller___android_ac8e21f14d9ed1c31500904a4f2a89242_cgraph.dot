@@ -1,0 +1,17 @@
+digraph "swp.tuilmenau.carduinodroid.controller.Controller_Android.packData"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="swp.tuilmenau.carduinodroid.controller.\lController_Android.packData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobileAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#ae308ed26606956a787a4b61d3fe7e7a0"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLANAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a960f3033213736a2ca426a478ad85a3c"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a3ea65267df8d63ec6a67e511067a674c"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLAN",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#acc74178e090418a8ae95b2f2840cf06e"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="swp.tuilmenau.carduinodroid.controller.\lGPS.getGPS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_g_p_s.html#aba91a5991ec2a3b6d0c33da46e9b5121"];
+}

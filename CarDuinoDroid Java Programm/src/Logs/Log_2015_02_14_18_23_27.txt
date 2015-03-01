@@ -1,0 +1,17 @@
+14.02.2015 18:23:27 No Rumblers found
+14.02.2015 18:23:34 Connect to: 192.168.2.111
+14.02.2015 18:23:35 Sent: Change resolution to -1.
+14.02.2015 18:23:35 Resolution settings were sent
+14.02.2015 18:23:38 Timestamp requested
+14.02.2015 18:24:01 Timestamp received
+14.02.2015 18:24:05 Fail
+14.02.2015 18:24:15 rtt: 30536
+14.02.2015 18:24:32 Timestamp requested
+14.02.2015 18:24:36 Timestamp received
+14.02.2015 18:24:49 Fail
+14.02.2015 18:24:56 rtt: 27504
+14.02.2015 18:24:56 Timestamp requested
+14.02.2015 18:25:01 Timestamp received
+14.02.2015 18:25:01 Fail
+14.02.2015 18:25:01 rtt: 4575
+14.02.2015 18:25:01 Timestamp requested

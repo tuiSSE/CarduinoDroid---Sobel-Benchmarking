@@ -1,0 +1,41 @@
+digraph "swp.tuilmenau.carduinodroid.controller.Socket_Package.run"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.run",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.sendCameraSizes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___package.html#a3e8a8bb73c0297f4589d74cb622689d4"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="swp.tuilmenau.carduinodroid.controller.\lCam.getSupportedSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#aaea0b22ca98286ebc752799baf919457"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="swp.tuilmenau.carduinodroid.model.\lLOG.write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1model_1_1_l_o_g.html#a07a373e26dd4618bab84def0c899635a"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.sendpackage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___package.html#af1f59a4d10ed02a41fdbfbe189d51922"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="swp.tuilmenau.carduinodroid.controller.\lNetwork.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_network.html#a310032de4956f12176e2ab75d9d34851"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___package.html#aa1379b7f52f3773259cf1c6fb08fb2a9"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Controller.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___controller.html#a08ccd8feecfa1c15480137de90e24d23"];
+  Node6 -> Node9 [color="midnightblue",fontsize="10",style="solid"];
+  Node9 [label="swp.tuilmenau.carduinodroid.controller.\lCam.close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#a690bbb9c9a4a7555c3e439f5b4e1399e"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid"];
+  Node10 [label="swp.tuilmenau.carduinodroid.controller.\lCam.run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_cam.html#ab8d692383962618c356c0d52327a348f"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid"];
+  Node11 [label="swp.tuilmenau.carduinodroid.controller.\lController_Android.packData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_controller___android.html#ac8e21f14d9ed1c31500904a4f2a89242"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid"];
+  Node12 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobileAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#ae308ed26606956a787a4b61d3fe7e7a0"];
+  Node11 -> Node13 [color="midnightblue",fontsize="10",style="solid"];
+  Node13 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLANAvailable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a960f3033213736a2ca426a478ad85a3c"];
+  Node11 -> Node14 [color="midnightblue",fontsize="10",style="solid"];
+  Node14 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a3ea65267df8d63ec6a67e511067a674c"];
+  Node11 -> Node15 [color="midnightblue",fontsize="10",style="solid"];
+  Node15 [label="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLAN",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#acc74178e090418a8ae95b2f2840cf06e"];
+  Node11 -> Node16 [color="midnightblue",fontsize="10",style="solid"];
+  Node16 [label="swp.tuilmenau.carduinodroid.controller.\lGPS.getGPS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_g_p_s.html#aba91a5991ec2a3b6d0c33da46e9b5121"];
+  Node1 -> Node17 [color="midnightblue",fontsize="10",style="solid"];
+  Node17 [label="swp.tuilmenau.carduinodroid.controller.\lSocket_Package.sendVibration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___package.html#ac94eadb1cae5fe5ed772c92c36ff81b6"];
+  Node17 -> Node18 [color="midnightblue",fontsize="10",style="solid"];
+  Node18 [label="swp.tuilmenau.carduinodroid.controller.\lGPS.Vibration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_g_p_s.html#afda4a9143b1495da7da755c6d07a42d9"];
+}

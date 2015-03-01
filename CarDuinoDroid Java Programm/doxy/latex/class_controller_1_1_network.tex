@@ -1,0 +1,461 @@
+\hypertarget{class_controller_1_1_network}{}\section{Controller.\+Network Class Reference}
+\label{class_controller_1_1_network}\index{Controller.\+Network@{Controller.\+Network}}
+
+
+Collaboration diagram for Controller.\+Network\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_controller_1_1_network_a52d633081ad026685640af5b3803884f}{Network} (\hyperlink{class_controller_1_1_packagedata}{Packagedata} n\+\_\+packagedata, \hyperlink{class_controller_1_1_camera___picture}{Camera\+\_\+\+Picture} n\+\_\+camera\+\_\+picture, \hyperlink{class_controller_1_1_performance___analyzer}{Performance\+\_\+\+Analyzer} n\+\_\+performance\+\_\+\+Analyzer, \hyperlink{class_controller_1_1_controller___computer}{Controller\+\_\+\+Computer} Controller\+Computer)
+\item 
+void \hyperlink{class_controller_1_1_network_ae67ed03163a7a45ab5d76e375121f6f0}{connect} (String ipstring)
+\item 
+boolean \hyperlink{class_controller_1_1_network_a418b97d15f7ac480cdf77e24fcdc3ec1}{send\+\_\+controllsignal} (String direction)
+\item 
+boolean \hyperlink{class_controller_1_1_network_a880c5afa94e996a62e78f969dce79d1a}{send\+\_\+camera\+\_\+settings} (String settings)
+\item 
+boolean \hyperlink{class_controller_1_1_network_a0cd2bef3e6087ab3ab39d28b4a57db35}{send\+\_\+sound} (String sound\+\_\+id)
+\item 
+void \hyperlink{class_controller_1_1_network_a2cef6cf1398d5697328314fc33589315}{receive\+\_\+package} (String message)
+\item 
+void \hyperlink{class_controller_1_1_network_a124b367a9c620d675753ec40c6de9ddc}{receive\+\_\+picture} (Buffered\+Image buffered\+Image)
+\item 
+void \hyperlink{class_controller_1_1_network_a2d118b1d89fa5c949ed4f77a54b53536}{close} ()
+\item 
+void \hyperlink{class_controller_1_1_network_ad1be957b9e2d12a1450be8b323178ad7}{receive\+\_\+frame\+Rate} (float frame\+Rate)
+\item 
+long \hyperlink{class_controller_1_1_network_a8c5523e2678152b450977e707cce3848}{receive\+\_\+network\+\_\+\+Statistics} ()
+\item 
+boolean \hyperlink{class_controller_1_1_network_ad8f331a6f51fe194e78294c53cb019ee}{send\+\_\+request\+Time\+Stamp} (String request)
+\item 
+long \hyperlink{class_controller_1_1_network_a0e6669d614f56f54891acfa3c4ea99dd}{receive\+\_\+requested\+Time\+Stamp} ()
+\item 
+void \hyperlink{class_controller_1_1_network_a88c1d505e5b01fc3320c53613e869eb4}{receive\+\_\+absolute\+Delay} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This Class is responsible for the communication with the android-\/application \begin{DoxyAuthor}{Author}
+Robin 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+18.\+06.\+2012 
+\end{DoxyVersion}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_controller_1_1_network_a52d633081ad026685640af5b3803884f}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!Network@{Network}}
+\index{Network@{Network}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{Network}]{\setlength{\rightskip}{0pt plus 5cm}Controller.\+Network.\+Network (
+\begin{DoxyParamCaption}
+\item[{{\bf Packagedata}}]{n\+\_\+packagedata, }
+\item[{{\bf Camera\+\_\+\+Picture}}]{n\+\_\+camera\+\_\+picture, }
+\item[{{\bf Performance\+\_\+\+Analyzer}}]{n\+\_\+performance\+\_\+\+Analyzer, }
+\item[{{\bf Controller\+\_\+\+Computer}}]{Controller\+Computer}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a52d633081ad026685640af5b3803884f}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_controller_1_1_network_a2d118b1d89fa5c949ed4f77a54b53536}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!close@{close}}
+\index{close@{close}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{close}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+close (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a2d118b1d89fa5c949ed4f77a54b53536}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a2d118b1d89fa5c949ed4f77a54b53536_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a2d118b1d89fa5c949ed4f77a54b53536_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_ae67ed03163a7a45ab5d76e375121f6f0}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!connect@{connect}}
+\index{connect@{connect}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{connect}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+connect (
+\begin{DoxyParamCaption}
+\item[{String}]{ipstring}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_ae67ed03163a7a45ab5d76e375121f6f0}
+This method connects with the Android-\/\+Application 
+\begin{DoxyParams}{Parameters}
+{\em ipstring} & \\
+\hline
+\end{DoxyParams}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_ae67ed03163a7a45ab5d76e375121f6f0_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_ae67ed03163a7a45ab5d76e375121f6f0_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a88c1d505e5b01fc3320c53613e869eb4}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+absolute\+Delay@{receive\+\_\+absolute\+Delay}}
+\index{receive\+\_\+absolute\+Delay@{receive\+\_\+absolute\+Delay}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+absolute\+Delay}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+receive\+\_\+absolute\+Delay (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a88c1d505e5b01fc3320c53613e869eb4}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a88c1d505e5b01fc3320c53613e869eb4_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a88c1d505e5b01fc3320c53613e869eb4_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_ad1be957b9e2d12a1450be8b323178ad7}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+frame\+Rate@{receive\+\_\+frame\+Rate}}
+\index{receive\+\_\+frame\+Rate@{receive\+\_\+frame\+Rate}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+frame\+Rate}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+receive\+\_\+frame\+Rate (
+\begin{DoxyParamCaption}
+\item[{float}]{frame\+Rate}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_ad1be957b9e2d12a1450be8b323178ad7}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_ad1be957b9e2d12a1450be8b323178ad7_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_ad1be957b9e2d12a1450be8b323178ad7_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a8c5523e2678152b450977e707cce3848}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+network\+\_\+\+Statistics@{receive\+\_\+network\+\_\+\+Statistics}}
+\index{receive\+\_\+network\+\_\+\+Statistics@{receive\+\_\+network\+\_\+\+Statistics}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+network\+\_\+\+Statistics}]{\setlength{\rightskip}{0pt plus 5cm}long Controller.\+Network.\+receive\+\_\+network\+\_\+\+Statistics (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a8c5523e2678152b450977e707cce3848}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a8c5523e2678152b450977e707cce3848_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a8c5523e2678152b450977e707cce3848_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a2cef6cf1398d5697328314fc33589315}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+package@{receive\+\_\+package}}
+\index{receive\+\_\+package@{receive\+\_\+package}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+package}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+receive\+\_\+package (
+\begin{DoxyParamCaption}
+\item[{String}]{message}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a2cef6cf1398d5697328314fc33589315}
+Transfer the message to the \hyperlink{class_controller_1_1_packagedata}{Packagedata} 
+\begin{DoxyParams}{Parameters}
+{\em message} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxySeeAlso}{See also}
+\hyperlink{class_controller_1_1_packagedata_af59e3421f44bc61c72b1b483bc43d077}{Packagedata\+::receive\+\_\+package(\+String)} 
+\end{DoxySeeAlso}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a2cef6cf1398d5697328314fc33589315_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a2cef6cf1398d5697328314fc33589315_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a124b367a9c620d675753ec40c6de9ddc}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+picture@{receive\+\_\+picture}}
+\index{receive\+\_\+picture@{receive\+\_\+picture}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+picture}]{\setlength{\rightskip}{0pt plus 5cm}void Controller.\+Network.\+receive\+\_\+picture (
+\begin{DoxyParamCaption}
+\item[{Buffered\+Image}]{buffered\+Image}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a124b367a9c620d675753ec40c6de9ddc}
+Transfer the image to the \hyperlink{class_controller_1_1_camera___picture}{Camera\+\_\+\+Picture} 
+\begin{DoxyParams}{Parameters}
+{\em buffered\+Image} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxySeeAlso}{See also}
+Camera\+\_\+\+Picture\+::receive\+\_\+picture(\+Image\+Icon) 
+\end{DoxySeeAlso}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a124b367a9c620d675753ec40c6de9ddc_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a124b367a9c620d675753ec40c6de9ddc_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a0e6669d614f56f54891acfa3c4ea99dd}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!receive\+\_\+requested\+Time\+Stamp@{receive\+\_\+requested\+Time\+Stamp}}
+\index{receive\+\_\+requested\+Time\+Stamp@{receive\+\_\+requested\+Time\+Stamp}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{receive\+\_\+requested\+Time\+Stamp}]{\setlength{\rightskip}{0pt plus 5cm}long Controller.\+Network.\+receive\+\_\+requested\+Time\+Stamp (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a0e6669d614f56f54891acfa3c4ea99dd}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a0e6669d614f56f54891acfa3c4ea99dd_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a880c5afa94e996a62e78f969dce79d1a}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!send\+\_\+camera\+\_\+settings@{send\+\_\+camera\+\_\+settings}}
+\index{send\+\_\+camera\+\_\+settings@{send\+\_\+camera\+\_\+settings}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{send\+\_\+camera\+\_\+settings}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Network.\+send\+\_\+camera\+\_\+settings (
+\begin{DoxyParamCaption}
+\item[{String}]{settings}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a880c5afa94e996a62e78f969dce79d1a}
+
+\begin{DoxyParams}{Parameters}
+{\em settings} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\begin{DoxySeeAlso}{See also}
+\hyperlink{class_controller_1_1_socket___controller_a143d54b3c69a8f3ffd01c24c183cb186}{Socket\+\_\+\+Controller\+::send\+\_\+camera\+\_\+settings(\+String)} 
+\end{DoxySeeAlso}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a880c5afa94e996a62e78f969dce79d1a_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a880c5afa94e996a62e78f969dce79d1a_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a418b97d15f7ac480cdf77e24fcdc3ec1}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!send\+\_\+controllsignal@{send\+\_\+controllsignal}}
+\index{send\+\_\+controllsignal@{send\+\_\+controllsignal}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{send\+\_\+controllsignal}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Network.\+send\+\_\+controllsignal (
+\begin{DoxyParamCaption}
+\item[{String}]{direction}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a418b97d15f7ac480cdf77e24fcdc3ec1}
+
+\begin{DoxyParams}{Parameters}
+{\em direction} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\begin{DoxySeeAlso}{See also}
+\hyperlink{class_controller_1_1_socket___controller_a48847c95b991adf579a282a45e19f79e}{Socket\+\_\+\+Controller\+::send\+\_\+controllsignal(\+String)} 
+\end{DoxySeeAlso}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a418b97d15f7ac480cdf77e24fcdc3ec1_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_ad8f331a6f51fe194e78294c53cb019ee}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!send\+\_\+request\+Time\+Stamp@{send\+\_\+request\+Time\+Stamp}}
+\index{send\+\_\+request\+Time\+Stamp@{send\+\_\+request\+Time\+Stamp}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{send\+\_\+request\+Time\+Stamp}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Network.\+send\+\_\+request\+Time\+Stamp (
+\begin{DoxyParamCaption}
+\item[{String}]{request}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_ad8f331a6f51fe194e78294c53cb019ee}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_ad8f331a6f51fe194e78294c53cb019ee_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_controller_1_1_network_a0cd2bef3e6087ab3ab39d28b4a57db35}{}\index{Controller\+::\+Network@{Controller\+::\+Network}!send\+\_\+sound@{send\+\_\+sound}}
+\index{send\+\_\+sound@{send\+\_\+sound}!Controller\+::\+Network@{Controller\+::\+Network}}
+\subsubsection[{send\+\_\+sound}]{\setlength{\rightskip}{0pt plus 5cm}boolean Controller.\+Network.\+send\+\_\+sound (
+\begin{DoxyParamCaption}
+\item[{String}]{sound\+\_\+id}
+\end{DoxyParamCaption}
+)}\label{class_controller_1_1_network_a0cd2bef3e6087ab3ab39d28b4a57db35}
+
+\begin{DoxyParams}{Parameters}
+{\em sound\+\_\+id} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\begin{DoxySeeAlso}{See also}
+\hyperlink{class_controller_1_1_socket___controller_a2df08fcd76b146de308fa5a0e117cb34}{Socket\+\_\+\+Controller\+::send\+\_\+sound(\+String)} 
+\end{DoxySeeAlso}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a0cd2bef3e6087ab3ab39d28b4a57db35_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_controller_1_1_network_a0cd2bef3e6087ab3ab39d28b4a57db35_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/\+Honzo/\+Documents/facharbeiten/studienarbeit\+\_\+code/studienarbeit\+\_\+code/\+Car\+Duino\+Droid Java Programm/src/\+Controller/\hyperlink{_network_8java}{Network.\+java}\end{DoxyCompactItemize}

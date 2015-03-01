@@ -1,0 +1,5 @@
+21.01.2015 07:22:49 No Rumblers found
+21.01.2015 07:23:01 Connect to: 192.168.2.108
+21.01.2015 07:23:01 Socket_Performance_Analyzer - Fehler beim Verbinden
+21.01.2015 07:23:01 Sent: Change resolution to -1.
+21.01.2015 07:23:01 Resolution settings were sent

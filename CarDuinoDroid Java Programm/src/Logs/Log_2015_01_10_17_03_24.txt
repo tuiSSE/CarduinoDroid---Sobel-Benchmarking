@@ -1,0 +1,5 @@
+10.01.2015 17:03:25 No Rumblers found
+10.01.2015 17:03:41 Connect to: 192.168.2.108
+10.01.2015 17:03:41 Sent: Change resolution to -1.
+10.01.2015 17:03:41 Resolution settings were sent
+10.01.2015 17:03:56 Edge Detection 1

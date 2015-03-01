@@ -1,0 +1,6 @@
+<map id="Controller.Car_Controller.UpdateCamera" name="Controller.Car_Controller.UpdateCamera">
+<area shape="rect" id="node2" href="$class_controller_1_1_camera___settings.html#a39bba47bcc84835b2af1062b560a521e" title="Controller.Camera_Settings.send\l_change_camera" alt="" coords="227,35,445,76"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_network.html#a880c5afa94e996a62e78f969dce79d1a" title="Controller.Network.send\l_camera_settings" alt="" coords="493,5,659,47"/>
+<area shape="rect" id="node5" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="501,71,651,98"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_socket___controller.html#a143d54b3c69a8f3ffd01c24c183cb186" title="Controller.Socket_Controller.send\l_camera_settings" alt="" coords="707,5,929,47"/>
+</map>

@@ -1,0 +1,4 @@
+22.01.2015 08:12:13 No Rumblers found
+22.01.2015 08:12:21 Connect to: 192.168.2.108
+22.01.2015 08:12:21 Sent: Change resolution to -1.
+22.01.2015 08:12:21 Resolution settings were sent

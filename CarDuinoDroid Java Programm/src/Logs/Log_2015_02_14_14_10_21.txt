@@ -1,0 +1,36 @@
+14.02.2015 14:10:22 No Rumblers found
+14.02.2015 14:10:29 Connect to: 192.168.2.108
+14.02.2015 14:10:31 Sent: Change resolution to -1.
+14.02.2015 14:10:31 Resolution settings were sent
+14.02.2015 14:10:36 Timestamp requested
+14.02.2015 14:10:39 Timestamp requested
+14.02.2015 14:10:39 Timestamp received
+14.02.2015 14:10:39 rtt: 4
+14.02.2015 14:10:39 Timestamp requested
+14.02.2015 14:10:39 Timestamp received
+14.02.2015 14:10:39 rtt: 3
+14.02.2015 14:10:39 Timestamp requested
+14.02.2015 14:10:39 Timestamp received
+14.02.2015 14:10:39 rtt: 4
+14.02.2015 14:10:39 Timestamp requested
+14.02.2015 14:10:39 Timestamp received
+14.02.2015 14:10:39 rtt: 2
+14.02.2015 14:10:39 Timestamp requested
+14.02.2015 14:10:39 Timestamp received
+14.02.2015 14:10:39 rtt: 3
+14.02.2015 14:10:40 Timestamp requested
+14.02.2015 14:10:40 Timestamp received
+14.02.2015 14:10:40 rtt: 4
+14.02.2015 14:10:40 Timestamp requested
+14.02.2015 14:10:40 Timestamp received
+14.02.2015 14:10:40 rtt: 10
+14.02.2015 14:10:40 Timestamp requested
+14.02.2015 14:10:40 Timestamp received
+14.02.2015 14:10:40 rtt: 4
+14.02.2015 14:10:40 Timestamp requested
+14.02.2015 14:10:40 Timestamp received
+14.02.2015 14:10:40 rtt: 5
+14.02.2015 14:10:40 Timestamp requested
+14.02.2015 14:10:40 Timestamp received
+14.02.2015 14:10:40 rtt: 3
+14.02.2015 14:10:41 timediff: 1680

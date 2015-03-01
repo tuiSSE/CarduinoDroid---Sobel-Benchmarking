@@ -1,0 +1,100 @@
+21.01.2015 12:42:58 No Rumblers found
+21.01.2015 12:43:14 Connect to: 192.168.2.108
+21.01.2015 12:43:14 Sent: Change resolution to -1.
+21.01.2015 12:43:14 Resolution settings were sent
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Could not receive Timestamp
+21.01.2015 12:43:17 rtt: 2
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Could not receive Timestamp
+21.01.2015 12:43:17 rtt: 2
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Could not receive Timestamp
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Could not receive Timestamp
+21.01.2015 12:43:17 rtt: 7
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Could not receive Timestamp
+21.01.2015 12:43:17 rtt: 6
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 13
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 5
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 3
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 3
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 3
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 9
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 3
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 5
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 17
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 4
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 9
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 6
+21.01.2015 12:43:17 Timestamp requested
+21.01.2015 12:43:17 Timestamp received
+21.01.2015 12:43:17 rtt: 5
+21.01.2015 12:43:17 timediff: 974
+21.01.2015 12:43:39 Sent: Change resolution to 0.
+21.01.2015 12:43:39 Resolution settings were sent
+21.01.2015 12:43:44 Sent: Change quality to 1.
+21.01.2015 12:43:44 Quality has been changed
+21.01.2015 12:44:18 Timeout. Please reconnect

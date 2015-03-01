@@ -1,0 +1,6 @@
+<map id="View.Signal_ActionListener.actionPerformed" name="View.Signal_ActionListener.actionPerformed">
+<area shape="rect" id="node2" href="$class_controller_1_1_sound___output.html#a614fad3661aebdc0dc122b4dfdbd02b0" title="Controller.Sound_Output.send\l_output_soundsignal" alt="" coords="276,35,479,76"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_network.html#a0cd2bef3e6087ab3ab39d28b4a57db35" title="Controller.Network.send\l_sound" alt="" coords="527,5,692,47"/>
+<area shape="rect" id="node5" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="534,71,685,98"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_socket___controller.html#a2df08fcd76b146de308fa5a0e117cb34" title="Controller.Socket_Controller.send\l_sound" alt="" coords="740,5,963,47"/>
+</map>

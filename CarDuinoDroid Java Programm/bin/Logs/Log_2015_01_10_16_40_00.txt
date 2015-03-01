@@ -1,0 +1,18 @@
+10.01.2015 16:40:01 No Rumblers found
+10.01.2015 16:40:14 Connect to: 192.168.2.109
+10.01.2015 16:40:15 Socket_Picture - Fehler beim Verbinden
+10.01.2015 16:40:15 Socket_Controller - Fehler beim Verbinden
+10.01.2015 16:40:15 Socket_Package - Fehler beim Verbinden
+10.01.2015 16:40:24 Connect to: 192.168.2.109
+10.01.2015 16:40:25 Socket_Picture - Fehler beim Verbinden
+10.01.2015 16:40:25 Socket_Controller - Fehler beim Verbinden
+10.01.2015 16:40:25 Socket_Package - Fehler beim Verbinden
+10.01.2015 16:40:45 Connect to: 192.168.2.109
+10.01.2015 16:40:45 Socket_Picture - Fehler beim Verbinden
+10.01.2015 16:40:45 Socket_Controller - Fehler beim Verbinden
+10.01.2015 16:40:45 Socket_Package - Fehler beim Verbinden
+10.01.2015 16:41:06 Connect to: 192.168.2.108
+10.01.2015 16:41:06 Timeout. Please reconnect10.01.2015 16:41:06 Timeout. Please reconnect
+10.01.2015 16:41:06 Timeout. Please reconnect
+
+10.01.2015 16:41:18 CarDuinoDroid closed.

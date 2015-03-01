@@ -1,0 +1,7 @@
+<map id="Controller.Network.connect" name="Controller.Network.connect">
+<area shape="rect" id="node2" href="$class_controller_1_1_socket___picture.html#ab87a7b12f3233d51c057cfb7aae5768e" title="Controller.Socket_Picture.connect" alt="" coords="244,5,468,32"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_socket___controller.html#a29b570104991b9a087f5a100c8cf368e" title="Controller.Socket_Controller.connect" alt="" coords="236,56,476,83"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_socket___package.html#a691129a16fdcb40d2a0b1722872ae668" title="Controller.Socket_Package.connect" alt="" coords="239,107,473,133"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_socket___performance___analyzer.html#a2af2a2e218c97f0e16641d8768e817f9" title="Controller.Socket_Performance\l_Analyzer.connect" alt="" coords="252,158,460,199"/>
+<area shape="rect" id="node6" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="281,224,431,251"/>
+</map>

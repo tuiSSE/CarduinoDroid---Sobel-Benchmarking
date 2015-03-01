@@ -1,0 +1,4 @@
+<map id="Controller.Sound_Output.send_output_soundsignal" name="Controller.Sound_Output.send_output_soundsignal">
+<area shape="rect" id="node2" href="$class_view_1_1_direction___key_listener.html#a330da76dc27e35eaa7d2c5c6699ebab8" title="View.Direction_KeyListener.key\lPressed" alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_signal___action_listener.html#ac35f78ed6ee5926f0262f4f8954bde7b" title="View.Signal_ActionListener.action\lPerformed" alt="" coords="256,71,479,112"/>
+</map>

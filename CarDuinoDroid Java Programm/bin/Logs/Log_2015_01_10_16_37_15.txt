@@ -1,0 +1,15 @@
+10.01.2015 16:37:16 No Rumblers found
+10.01.2015 16:38:01 Connect to: 192.168.2.109
+10.01.2015 16:38:01 Socket_Picture - Fehler beim Verbinden
+10.01.2015 16:38:01 Socket_Controller - Fehler beim Verbinden
+10.01.2015 16:38:01 Socket_Package - Fehler beim Verbinden
+10.01.2015 16:38:14 Connect to: 192.168.2.108
+10.01.2015 16:38:15 Timeout. Please reconnect
+10.01.2015 16:39:07 Connect to: 192.168.2.108
+10.01.2015 16:39:07 Sent: Change resolution to -1.
+10.01.2015 16:39:07 Resolution settings were sent
+10.01.2015 16:39:15 Sent: Change resolution to 3.
+10.01.2015 16:39:15 Resolution settings were sent
+10.01.2015 16:39:23 Edge Detection true
+10.01.2015 16:39:35 Edge Detection false
+10.01.2015 16:39:50 CarDuinoDroid closed.

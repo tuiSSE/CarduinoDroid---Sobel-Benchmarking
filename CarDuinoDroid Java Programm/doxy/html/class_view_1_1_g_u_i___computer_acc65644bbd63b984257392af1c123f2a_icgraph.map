@@ -1,0 +1,8 @@
+<map id="View.GUI_Computer.getPanelHeight" name="View.GUI_Computer.getPanelHeight">
+<area shape="rect" id="node2" href="$class_controller_1_1_camera___picture.html#a8238414f569f7b746f538415c19580ee" title="Controller.Camera_Picture.\lLoadPicture" alt="" coords="253,39,437,80"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_camera___picture.html#a6c023933f9516c247c15326db445966c" title="Controller.Camera_Picture.receive\l_picture" alt="" coords="485,5,712,47"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_camera___picture.html#af29e712d375616bb2275215f3ebdc397" title="Controller.Camera_Picture.\lUpdateDirection" alt="" coords="507,71,691,112"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_network.html#a124b367a9c620d675753ec40c6de9ddc" title="Controller.Network.receive\l_picture" alt="" coords="760,5,939,47"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_socket___picture.html#a7dd51a154509634a49d6fe67b1da78a6" title="Controller.Socket_Picture.run" alt="" coords="987,13,1183,39"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___picture.html#aa966da35d5df22360655ecc609a223c5" title="Controller.Socket_Picture.connect" alt="" coords="1231,13,1455,39"/>
+</map>

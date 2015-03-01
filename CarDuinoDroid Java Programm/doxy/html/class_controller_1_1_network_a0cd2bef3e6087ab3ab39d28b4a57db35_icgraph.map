@@ -1,0 +1,8 @@
+<map id="Controller.Network.send_sound" name="Controller.Network.send_sound">
+<area shape="rect" id="node2" href="$class_controller_1_1_sound___output.html#a614fad3661aebdc0dc122b4dfdbd02b0" title="Controller.Sound_Output.send\l_output_soundsignal" alt="" coords="223,37,425,79"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_soundrecording.html#aca2b59dbe46c49c3def7ac90bc84d5f8" title="Controller.Soundrecording.send\l_start_recording" alt="" coords="219,103,429,144"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_soundrecording.html#a9cdfc2b331d3559ea510e1ccf0d36226" title="Controller.Soundrecording.send\l_stop_recording" alt="" coords="219,168,429,209"/>
+<area shape="rect" id="node3" href="$class_view_1_1_direction___key_listener.html#a330da76dc27e35eaa7d2c5c6699ebab8" title="View.Direction_KeyListener.key\lPressed" alt="" coords="487,5,697,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_signal___action_listener.html#ac35f78ed6ee5926f0262f4f8954bde7b" title="View.Signal_ActionListener.action\lPerformed" alt="" coords="481,71,703,112"/>
+<area shape="rect" id="node6" href="$class_view_1_1_record___action_listener.html#a7228441e16e7040dc285c185c49199ed" title="View.Record_ActionListener.action\lPerformed" alt="" coords="477,152,707,193"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Controller.Network.receive_picture" name="Controller.Network.receive_picture">
+<area shape="rect" id="node2" href="$class_controller_1_1_socket___picture.html#a7dd51a154509634a49d6fe67b1da78a6" title="Controller.Socket_Picture.run" alt="" coords="232,13,428,39"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_socket___picture.html#aa966da35d5df22360655ecc609a223c5" title="Controller.Socket_Picture.connect" alt="" coords="476,13,700,39"/>
+</map>

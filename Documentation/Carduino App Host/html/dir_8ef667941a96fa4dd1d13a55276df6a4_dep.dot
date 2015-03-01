@@ -1,0 +1,13 @@
+digraph "gen/swp" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_efbf0f07115ca2c7fe7dbd57f71b90e0 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="gen" fontname="Helvetica", fontsize="10", URL="dir_efbf0f07115ca2c7fe7dbd57f71b90e0.html"]
+  subgraph clusterdir_8ef667941a96fa4dd1d13a55276df6a4 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_8ef667941a96fa4dd1d13a55276df6a4.html"];
+    dir_8ef667941a96fa4dd1d13a55276df6a4 [shape=plaintext label="swp"];
+    dir_f9bb74d5388a7621b12b1ac9dfb0fc60 [shape=box label="tuilmenau" color="red" fillcolor="white" style="filled" URL="dir_f9bb74d5388a7621b12b1ac9dfb0fc60.html"];
+  }
+  }
+}

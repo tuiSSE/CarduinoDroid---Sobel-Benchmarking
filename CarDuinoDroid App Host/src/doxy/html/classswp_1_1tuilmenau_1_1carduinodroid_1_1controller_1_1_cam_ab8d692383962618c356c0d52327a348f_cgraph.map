@@ -1,0 +1,7 @@
+<map id="swp.tuilmenau.carduinodroid.controller.Cam.run" name="swp.tuilmenau.carduinodroid.controller.Cam.run">
+<area shape="rect" id="node2" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1_filter_1_1_filter_factory.html#af9d1456b900a8d8f2874ef8d7dfbd702" title="swp.tuilmenau.carduinodroid.\lFilter.FilterFactory.getFactory" alt="" coords="317,5,513,47"/>
+<area shape="rect" id="node3" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1_filter_1_1_filter_factory.html#aa0f244ab827c355cd7fc4a7eb7f95096" title="swp.tuilmenau.carduinodroid.\lFilter.FilterFactory.getAvailable\lImageFilters" alt="" coords="312,71,517,127"/>
+<area shape="rect" id="node4" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1_filter_1_1_filter_factory.html#aaabe4677d10eb29acd7efa33448d890d" title="swp.tuilmenau.carduinodroid.\lFilter.FilterFactory.getInstance" alt="" coords="313,152,516,193"/>
+<area shape="rect" id="node6" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1_filter_1_1_image_filter.html#a1b9f146096c5a3364ea740f770470722" title="swp.tuilmenau.carduinodroid.\lFilter.ImageFilter.filterImageYUV" alt="" coords="307,217,523,259"/>
+<area shape="rect" id="node5" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1_filter_1_1_filter_factory.html#aff05b810c3776ef74643da75f46a2ceb" title="swp.tuilmenau.carduinodroid.\lFilter.FilterFactory.newInstance" alt="" coords="571,152,779,193"/>
+</map>

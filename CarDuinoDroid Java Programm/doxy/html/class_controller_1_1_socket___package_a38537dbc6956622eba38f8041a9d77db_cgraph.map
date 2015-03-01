@@ -1,0 +1,9 @@
+<map id="Controller.Socket_Package.run" name="Controller.Socket_Package.run">
+<area shape="rect" id="node2" href="$class_controller_1_1_network.html#a2cef6cf1398d5697328314fc33589315" title="Controller.Network.receive\l_package" alt="" coords="260,5,439,47"/>
+<area shape="rect" id="node4" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="274,71,425,98"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_network.html#a2d118b1d89fa5c949ed4f77a54b53536" title="Controller.Network.close" alt="" coords="266,122,433,149"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_packagedata.html#af59e3421f44bc61c72b1b483bc43d077" title="Controller.Packagedata.receive\l_package" alt="" coords="495,5,703,47"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___picture.html#a3dc8685eb30d00747049005e8d97f8bb" title="Controller.Socket_Picture.close" alt="" coords="495,71,703,98"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_socket___package.html#adcfadd19dc0f684aea1f10e97738d1fb" title="Controller.Socket_Package.close" alt="" coords="489,122,708,149"/>
+<area shape="rect" id="node8" href="$class_controller_1_1_socket___controller.html#a277036a9029a0289a8f370e73484c212" title="Controller.Socket_Controller.close" alt="" coords="487,173,711,199"/>
+</map>

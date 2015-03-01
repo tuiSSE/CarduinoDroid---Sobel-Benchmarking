@@ -1,0 +1,4 @@
+21.01.2015 05:05:00 No Rumblers found
+21.01.2015 05:05:07 Edge Detection 1
+21.01.2015 05:05:08 Edge Detection 0
+21.01.2015 05:05:12 CarDuinoDroid closed.

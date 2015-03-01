@@ -1,0 +1,229 @@
+30.01.2015 10:02:47 No Rumblers found
+30.01.2015 10:02:57 Connect to: 192.168.2.108
+30.01.2015 10:02:57 Timestamp requested
+30.01.2015 10:02:57 Sent: Change resolution to -1.
+30.01.2015 10:02:57 Resolution settings were sent
+30.01.2015 10:03:07 Timestamp requested
+30.01.2015 10:03:07 Timestamp received
+30.01.2015 10:03:07 rtt: 2
+30.01.2015 10:03:07 Timestamp requested
+30.01.2015 10:03:07 Timestamp received
+30.01.2015 10:03:07 rtt: 2
+30.01.2015 10:03:07 Timestamp requested
+30.01.2015 10:03:07 Timestamp received
+30.01.2015 10:03:07 rtt: 4
+30.01.2015 10:03:07 Timestamp requested
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 3
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 3
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 4
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 3
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 4
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 5
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 6
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:12 Timestamp received
+30.01.2015 10:03:12 rtt: 5
+30.01.2015 10:03:12 Timestamp requested
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 6
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 3
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:22 Timestamp received
+30.01.2015 10:03:22 rtt: 2
+30.01.2015 10:03:22 Timestamp requested
+30.01.2015 10:03:27 Timestamp requested
+30.01.2015 10:03:27 Timestamp received
+30.01.2015 10:03:27 rtt: 4
+30.01.2015 10:03:27 Timestamp requested
+30.01.2015 10:03:27 Timestamp received
+30.01.2015 10:03:27 rtt: 2
+30.01.2015 10:03:27 Timestamp requested
+30.01.2015 10:03:27 Timestamp received
+30.01.2015 10:03:27 rtt: 3
+30.01.2015 10:03:27 Timestamp requested
+30.01.2015 10:03:27 Timestamp received
+30.01.2015 10:03:27 rtt: 2
+30.01.2015 10:03:27 Timestamp requested
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 4
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 6
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 2
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 3
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 2
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 1
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:31 Timestamp received
+30.01.2015 10:03:31 rtt: 1
+30.01.2015 10:03:31 Timestamp requested
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 3
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 3
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 7
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 12
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 3
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 3
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 13
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 1
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 Timestamp requested
+30.01.2015 10:03:35 Timestamp received
+30.01.2015 10:03:35 rtt: 2
+30.01.2015 10:03:35 timediff: 1326
+30.01.2015 10:04:05 Sent: Change resolution to 12.
+30.01.2015 10:04:05 Resolution settings were sent
+30.01.2015 10:05:29 Edge Detection 1
+30.01.2015 10:08:05 Timeout. Please reconnect
+30.01.2015 10:40:37 Connect to: 192.168.2.108
+30.01.2015 10:40:38 Timestamp requested
+30.01.2015 10:40:38 Sent: Change resolution to -1.
+30.01.2015 10:40:38 Resolution settings were sent
+30.01.2015 10:40:57 Sent: Change resolution to 0.
+30.01.2015 10:40:57 Resolution settings were sent
+30.01.2015 10:41:01 Sent: Change quality to 1.
+30.01.2015 10:41:01 Quality has been changed
+30.01.2015 10:42:07 Timeout. Please reconnect
+30.01.2015 10:43:45 Edge Detection 0
+30.01.2015 10:43:53 Connect to: 192.168.2.108
+30.01.2015 10:43:53 Timestamp requested
+30.01.2015 10:43:53 Sent: Change resolution to -1.
+30.01.2015 10:43:53 Resolution settings were sent
+30.01.2015 10:44:05 Sent: Change resolution to 0.
+30.01.2015 10:44:05 Resolution settings were sent
+30.01.2015 10:44:10 Sent: Change quality to 1.
+30.01.2015 10:44:10 Quality has been changed
+30.01.2015 10:44:30 Timeout. Please reconnect

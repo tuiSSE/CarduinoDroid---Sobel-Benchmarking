@@ -1,0 +1,5 @@
+<map id="Controller.Camera_Picture.receive_picture" name="Controller.Camera_Picture.receive_picture">
+<area shape="rect" id="node2" href="$class_controller_1_1_camera___picture.html#a8238414f569f7b746f538415c19580ee" title="Controller.Camera_Picture.\lLoadPicture" alt="" coords="280,39,464,80"/>
+<area shape="rect" id="node3" href="$class_view_1_1_g_u_i___computer.html#acc65644bbd63b984257392af1c123f2a" title="View.GUI_Computer.getPanel\lHeight" alt="" coords="512,5,712,47"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_packagedata.html#a6a3a7e30e19292cc38188365e206a5a1" title="Controller.Packagedata.Get\lBatteryLevel" alt="" coords="519,71,705,112"/>
+</map>

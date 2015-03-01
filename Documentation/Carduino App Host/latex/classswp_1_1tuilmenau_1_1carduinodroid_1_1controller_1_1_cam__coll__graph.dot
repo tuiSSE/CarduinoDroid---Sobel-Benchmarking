@@ -1,0 +1,24 @@
+digraph "swp.tuilmenau.carduinodroid.controller.Cam"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="swp.tuilmenau.carduinodroid.controller.Cam",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="swp.tuilmenau.carduinodroid.controller.\lCameraCallback",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interfaceswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_camera_callback.html"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="Runnable",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" log" ];
+  Node4 [label="swp.tuilmenau.carduinodroid.model.LOG",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1model_1_1_l_o_g.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parameters" ];
+  Node5 [label="Parameters",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" camera" ];
+  Node6 [label="Camera",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" previewcallback" ];
+  Node7 [label="swp.tuilmenau.carduinodroid.controller.\lMyPreviewCallback",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_my_preview_callback.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="PreviewCallback",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+}

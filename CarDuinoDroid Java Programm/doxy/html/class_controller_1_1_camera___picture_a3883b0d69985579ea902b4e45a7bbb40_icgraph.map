@@ -1,0 +1,5 @@
+<map id="Controller.Camera_Picture.receive_Absolute_Delay" name="Controller.Camera_Picture.receive_Absolute_Delay">
+<area shape="rect" id="node2" href="$class_controller_1_1_network.html#a88c1d505e5b01fc3320c53613e869eb4" title="Controller.Network.receive\l_absoluteDelay" alt="" coords="280,5,459,47"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_socket___picture.html#a7dd51a154509634a49d6fe67b1da78a6" title="Controller.Socket_Picture.run" alt="" coords="507,13,703,39"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_socket___picture.html#aa966da35d5df22360655ecc609a223c5" title="Controller.Socket_Picture.connect" alt="" coords="751,13,975,39"/>
+</map>

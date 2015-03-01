@@ -1,0 +1,14 @@
+07.02.2015 13:12:17 No Rumblers found
+07.02.2015 13:12:37 Connect to: 192.168.2.111
+07.02.2015 13:12:37 Timestamp requested
+07.02.2015 13:12:37 Sent: Change resolution to -1.
+07.02.2015 13:12:37 Resolution settings were sent
+07.02.2015 13:12:43 Edge Detection 1
+07.02.2015 13:13:12 Timeout. Please reconnect
+07.02.2015 13:40:37 Connect to: 192.168.2.111
+07.02.2015 13:40:38 Timestamp requested
+07.02.2015 13:40:38 Sent: Change resolution to -1.
+07.02.2015 13:40:38 Resolution settings were sent
+07.02.2015 13:40:45 Edge Detection 0
+07.02.2015 13:40:48 Edge Detection 1
+07.02.2015 13:41:14 CarDuinoDroid closed.

@@ -1,0 +1,9 @@
+digraph "obj/local/armeabi/objs/CarDuinoDroidAppHost" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_ce0442197ac8f57af0eee7d47ec314da {
+    graph [ bgcolor="#ddddee", pencolor="black", label="objs" fontname="Helvetica", fontsize="10", URL="dir_ce0442197ac8f57af0eee7d47ec314da.html"]
+  dir_cdffdc0464b5ef9f24a64c950aabe107 [shape=box, label="CarDuinoDroidAppHost", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_cdffdc0464b5ef9f24a64c950aabe107.html"];
+  }
+}

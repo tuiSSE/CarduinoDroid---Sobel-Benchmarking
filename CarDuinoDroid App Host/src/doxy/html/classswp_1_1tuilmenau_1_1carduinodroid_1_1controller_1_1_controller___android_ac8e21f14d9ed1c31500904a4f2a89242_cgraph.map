@@ -1,0 +1,7 @@
+<map id="swp.tuilmenau.carduinodroid.controller.Controller_Android.packData" name="swp.tuilmenau.carduinodroid.controller.Controller_Android.packData">
+<area shape="rect" id="node2" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#ae308ed26606956a787a4b61d3fe7e7a0" title="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobileAvailable" alt="" coords="307,5,560,47"/>
+<area shape="rect" id="node3" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a960f3033213736a2ca426a478ad85a3c" title="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLANAvailable" alt="" coords="307,71,560,112"/>
+<area shape="rect" id="node4" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#a3ea65267df8d63ec6a67e511067a674c" title="swp.tuilmenau.carduinodroid.controller.\lConnection.getMobile" alt="" coords="307,136,560,177"/>
+<area shape="rect" id="node5" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_connection.html#acc74178e090418a8ae95b2f2840cf06e" title="swp.tuilmenau.carduinodroid.controller.\lConnection.getWLAN" alt="" coords="307,201,560,243"/>
+<area shape="rect" id="node6" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_g_p_s.html#aba91a5991ec2a3b6d0c33da46e9b5121" title="swp.tuilmenau.carduinodroid.controller.\lGPS.getGPS" alt="" coords="307,267,560,308"/>
+</map>

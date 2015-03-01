@@ -1,0 +1,5 @@
+<map id="swp.tuilmenau.carduinodroid.controller.Cam.enableFlash" name="swp.tuilmenau.carduinodroid.controller.Cam.enableFlash">
+<area shape="rect" id="node2" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_controller___android.html#aee7580998e493c8fafa0ddd0dff31704" title="swp.tuilmenau.carduinodroid.controller.\lController_Android.receiveData" alt="" coords="307,39,560,80"/>
+<area shape="rect" id="node3" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_network.html#a3bdf599c2a8dfadbe3b2d8e7c00b8ab0" title="swp.tuilmenau.carduinodroid.controller.\lNetwork.receive_controll" alt="" coords="608,5,861,47"/>
+<area shape="rect" id="node4" href="$classswp_1_1tuilmenau_1_1carduinodroid_1_1controller_1_1_socket___controller.html#a490674a59c3992603e27ef75821e61d6" title="swp.tuilmenau.carduinodroid.controller.\lSocket_Controller.run" alt="" coords="608,71,861,112"/>
+</map>

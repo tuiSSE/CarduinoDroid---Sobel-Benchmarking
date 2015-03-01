@@ -1,0 +1,38 @@
+17.01.2015 09:04:37 No Rumblers found
+17.01.2015 09:04:51 Connect to: 192.168.2.108
+17.01.2015 09:05:02 Socket_Picture - Fehler beim Verbinden
+17.01.2015 09:05:02 Socket_Controller - Fehler beim Verbinden
+17.01.2015 09:05:02 Socket_Package - Fehler beim Verbinden
+17.01.2015 09:05:21 Connect to: 192.168.2.108
+17.01.2015 09:05:21 Timeout. Please reconnect
+17.01.2015 09:05:51 Connect to: 192.168.2.108
+17.01.2015 09:05:51 Sent: Change resolution to -1.
+17.01.2015 09:05:51 Resolution settings were sent
+17.01.2015 09:06:17 Sent: Change quality to 100.
+17.01.2015 09:06:17 Quality has been changed
+17.01.2015 09:06:25 Sent: Change resolution to 7.
+17.01.2015 09:06:25 Resolution settings were sent
+17.01.2015 09:06:46 Sent: Change quality to 1.
+17.01.2015 09:06:46 Quality has been changed
+17.01.2015 09:08:51 Timeout. Please reconnect
+17.01.2015 09:52:05 Connect to: 192.168.2.108
+17.01.2015 09:52:05 Sent: Change resolution to -1.
+17.01.2015 09:52:05 Resolution settings were sent
+17.01.2015 09:53:01 Timeout. Please reconnect
+17.01.2015 09:53:19 Connect to: 192.168.2.108
+17.01.2015 09:53:20 Sent: Change resolution to -1.
+17.01.2015 09:53:20 Resolution settings were sent
+17.01.2015 09:53:27 Edge Detection 1
+17.01.2015 09:55:32 Timeout. Please reconnect
+17.01.2015 10:02:29 Connect to: 192.168.2.108
+17.01.2015 10:02:30 Sent: Change resolution to -1.
+17.01.2015 10:02:30 Resolution settings were sent
+17.01.2015 10:02:38 Edge Detection 0
+17.01.2015 10:02:39 Edge Detection 1
+17.01.2015 10:03:33 Timeout. Please reconnect
+17.01.2015 10:04:34 Connect to: 192.168.2.108
+17.01.2015 10:04:36 Sent: Change resolution to -1.
+17.01.2015 10:04:36 Resolution settings were sent
+17.01.2015 10:04:38 Edge Detection 0
+17.01.2015 10:04:47 Edge Detection 1
+17.01.2015 10:05:10 Timeout. Please reconnect

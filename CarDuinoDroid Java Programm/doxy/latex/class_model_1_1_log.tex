@@ -1,0 +1,92 @@
+\hypertarget{class_model_1_1_log}{}\section{Model.\+Log Class Reference}
+\label{class_model_1_1_log}\index{Model.\+Log@{Model.\+Log}}
+
+
+Collaboration diagram for Model.\+Log\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_model_1_1_log__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_model_1_1_log_a9056cbc847b49dcb9029832755d844bb}{Log} (\hyperlink{class_view_1_1_g_u_i___computer}{G\+U\+I\+\_\+\+Computer} G\+U\+I\+\_\+computer)
+\item 
+void \hyperlink{class_model_1_1_log_af78cab944fbd65179f84beb4dc0b091a}{writelogfile} (String line)
+\item 
+void \hyperlink{class_model_1_1_log_a7aaa79eed898d1b841f48376ebb32a7a}{savelogfile} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+methods for sending camera changes \begin{DoxyAuthor}{Author}
+Lars Vogel 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+12.\+06.\+2012 
+\end{DoxyVersion}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_model_1_1_log_a9056cbc847b49dcb9029832755d844bb}{}\index{Model\+::\+Log@{Model\+::\+Log}!Log@{Log}}
+\index{Log@{Log}!Model\+::\+Log@{Model\+::\+Log}}
+\subsubsection[{Log}]{\setlength{\rightskip}{0pt plus 5cm}Model.\+Log.\+Log (
+\begin{DoxyParamCaption}
+\item[{{\bf G\+U\+I\+\_\+\+Computer}}]{G\+U\+I\+\_\+computer}
+\end{DoxyParamCaption}
+)}\label{class_model_1_1_log_a9056cbc847b49dcb9029832755d844bb}
+The constructor starts to write a $\ast$.txt-\/file with all important information about the chosen functions as well as sent signals.
+
+
+\begin{DoxyParams}{Parameters}
+{\em date} & Reads the date of the used computer \\
+\hline
+{\em dateformat} & Format for the date \\
+\hline
+{\em logfile} & Say how to save the log file \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_model_1_1_log_a7aaa79eed898d1b841f48376ebb32a7a}{}\index{Model\+::\+Log@{Model\+::\+Log}!savelogfile@{savelogfile}}
+\index{savelogfile@{savelogfile}!Model\+::\+Log@{Model\+::\+Log}}
+\subsubsection[{savelogfile}]{\setlength{\rightskip}{0pt plus 5cm}void Model.\+Log.\+savelogfile (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_model_1_1_log_a7aaa79eed898d1b841f48376ebb32a7a}
+If you choose to close the application, it is important to do the same thing with our log file. Without this method it can happen that the $\ast$.txt-\/file is unreadable. \hypertarget{class_model_1_1_log_af78cab944fbd65179f84beb4dc0b091a}{}\index{Model\+::\+Log@{Model\+::\+Log}!writelogfile@{writelogfile}}
+\index{writelogfile@{writelogfile}!Model\+::\+Log@{Model\+::\+Log}}
+\subsubsection[{writelogfile}]{\setlength{\rightskip}{0pt plus 5cm}void Model.\+Log.\+writelogfile (
+\begin{DoxyParamCaption}
+\item[{String}]{line}
+\end{DoxyParamCaption}
+)}\label{class_model_1_1_log_af78cab944fbd65179f84beb4dc0b091a}
+All \hyperlink{class_model_1_1_log}{Log} entries will be imported by the same format. First you will get an information about the date and time and then a short explanation about the function.
+
+
+\begin{DoxyParams}{Parameters}
+{\em line} & Contains the string which will be include \\
+\hline
+\end{DoxyParams}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_model_1_1_log_af78cab944fbd65179f84beb4dc0b091a_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/\+Honzo/\+Documents/facharbeiten/studienarbeit\+\_\+code/studienarbeit\+\_\+code/\+Car\+Duino\+Droid Java Programm/src/\+Model/\hyperlink{_log_8java}{Log.\+java}\end{DoxyCompactItemize}

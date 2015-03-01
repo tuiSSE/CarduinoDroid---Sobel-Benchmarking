@@ -1,0 +1,108 @@
+\hypertarget{class_view_1_1_direction___key_listener}{}\section{View.\+Direction\+\_\+\+Key\+Listener Class Reference}
+\label{class_view_1_1_direction___key_listener}\index{View.\+Direction\+\_\+\+Key\+Listener@{View.\+Direction\+\_\+\+Key\+Listener}}
+
+
+Inheritance diagram for View.\+Direction\+\_\+\+Key\+Listener\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=219pt]{class_view_1_1_direction___key_listener__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for View.\+Direction\+\_\+\+Key\+Listener\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_view_1_1_direction___key_listener__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_view_1_1_direction___key_listener_a8adb7d250eed421136d52519b3e99770}{Direction\+\_\+\+Key\+Listener} (\hyperlink{class_view_1_1_g_u_i___computer}{G\+U\+I\+\_\+\+Computer} G\+U\+I\+\_\+computer, \hyperlink{class_controller_1_1_controller___computer}{Controller\+\_\+\+Computer} Controller\+\_\+computer)
+\item 
+void \hyperlink{class_view_1_1_direction___key_listener_a330da76dc27e35eaa7d2c5c6699ebab8}{key\+Pressed} (Key\+Event e)
+\item 
+void \hyperlink{class_view_1_1_direction___key_listener_abb54afb2ce915a7285c49a59f5359bc4}{key\+Released} (Key\+Event e)
+\item 
+void \hyperlink{class_view_1_1_direction___key_listener_a94e7c5f6db2ebb0df2b65fa3398cda3f}{key\+Typed} (Key\+Event e)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+methods for working with Key\+Events and calculate direction/speed
+
+\begin{DoxyAuthor}{Author}
+Lars Vogel 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+12.\+06.\+2012 
+\end{DoxyVersion}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_view_1_1_direction___key_listener_a8adb7d250eed421136d52519b3e99770}{}\index{View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}!Direction\+\_\+\+Key\+Listener@{Direction\+\_\+\+Key\+Listener}}
+\index{Direction\+\_\+\+Key\+Listener@{Direction\+\_\+\+Key\+Listener}!View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}}
+\subsubsection[{Direction\+\_\+\+Key\+Listener}]{\setlength{\rightskip}{0pt plus 5cm}View.\+Direction\+\_\+\+Key\+Listener.\+Direction\+\_\+\+Key\+Listener (
+\begin{DoxyParamCaption}
+\item[{{\bf G\+U\+I\+\_\+\+Computer}}]{G\+U\+I\+\_\+computer, }
+\item[{{\bf Controller\+\_\+\+Computer}}]{Controller\+\_\+computer}
+\end{DoxyParamCaption}
+)}\label{class_view_1_1_direction___key_listener_a8adb7d250eed421136d52519b3e99770}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_view_1_1_direction___key_listener_a330da76dc27e35eaa7d2c5c6699ebab8}{}\index{View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}!key\+Pressed@{key\+Pressed}}
+\index{key\+Pressed@{key\+Pressed}!View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}}
+\subsubsection[{key\+Pressed}]{\setlength{\rightskip}{0pt plus 5cm}void View.\+Direction\+\_\+\+Key\+Listener.\+key\+Pressed (
+\begin{DoxyParamCaption}
+\item[{Key\+Event}]{e}
+\end{DoxyParamCaption}
+)}\label{class_view_1_1_direction___key_listener_a330da76dc27e35eaa7d2c5c6699ebab8}
+When a key will be pressed, it is necessary to save the status in a separate variable. To work with a variable is easier then with a key\+Code or something like that. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_view_1_1_direction___key_listener_a330da76dc27e35eaa7d2c5c6699ebab8_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_view_1_1_direction___key_listener_abb54afb2ce915a7285c49a59f5359bc4}{}\index{View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}!key\+Released@{key\+Released}}
+\index{key\+Released@{key\+Released}!View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}}
+\subsubsection[{key\+Released}]{\setlength{\rightskip}{0pt plus 5cm}void View.\+Direction\+\_\+\+Key\+Listener.\+key\+Released (
+\begin{DoxyParamCaption}
+\item[{Key\+Event}]{e}
+\end{DoxyParamCaption}
+)}\label{class_view_1_1_direction___key_listener_abb54afb2ce915a7285c49a59f5359bc4}
+After a key is released, the variable will be set to false or sometimes an event will be started. The sliders will be controlled directly by certain methods to change their values. It should feel like a real gear. 
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_view_1_1_direction___key_listener_abb54afb2ce915a7285c49a59f5359bc4_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_view_1_1_direction___key_listener_a94e7c5f6db2ebb0df2b65fa3398cda3f}{}\index{View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}!key\+Typed@{key\+Typed}}
+\index{key\+Typed@{key\+Typed}!View\+::\+Direction\+\_\+\+Key\+Listener@{View\+::\+Direction\+\_\+\+Key\+Listener}}
+\subsubsection[{key\+Typed}]{\setlength{\rightskip}{0pt plus 5cm}void View.\+Direction\+\_\+\+Key\+Listener.\+key\+Typed (
+\begin{DoxyParamCaption}
+\item[{Key\+Event}]{e}
+\end{DoxyParamCaption}
+)}\label{class_view_1_1_direction___key_listener_a94e7c5f6db2ebb0df2b65fa3398cda3f}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+/\+Users/\+Honzo/\+Documents/facharbeiten/studienarbeit\+\_\+code/studienarbeit\+\_\+code/\+Car\+Duino\+Droid Java Programm/src/\+View/\hyperlink{_direction___key_listener_8java}{Direction\+\_\+\+Key\+Listener.\+java}\end{DoxyCompactItemize}

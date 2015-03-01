@@ -1,0 +1,58 @@
+14.02.2015 14:13:54 No Rumblers found
+14.02.2015 14:14:19 Connect to: 192.168.2.108
+14.02.2015 14:14:19 Sent: Change resolution to -1.
+14.02.2015 14:14:19 Resolution settings were sent
+14.02.2015 14:14:25 Timestamp requested
+14.02.2015 14:14:27 Timestamp requested
+14.02.2015 14:14:27 Timestamp received
+14.02.2015 14:14:27 rtt: 2
+14.02.2015 14:14:27 Timestamp requested
+14.02.2015 14:14:29 Timestamp requested
+14.02.2015 14:14:29 Timestamp received
+14.02.2015 14:14:29 rtt: 3
+14.02.2015 14:14:29 Timestamp requested
+14.02.2015 14:14:29 Timestamp received
+14.02.2015 14:14:29 rtt: 4
+14.02.2015 14:14:29 Timestamp requested
+14.02.2015 14:14:29 Timestamp received
+14.02.2015 14:14:29 rtt: 2
+14.02.2015 14:14:29 Timestamp requested
+14.02.2015 14:14:29 Timestamp received
+14.02.2015 14:14:29 rtt: 2
+14.02.2015 14:14:29 Timestamp requested
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 4
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 13
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 7
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 6
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 6
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 4
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 5
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 4
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 5
+14.02.2015 14:14:30 Timestamp requested
+14.02.2015 14:14:30 Timestamp received
+14.02.2015 14:14:30 rtt: 8
+14.02.2015 14:14:30 timediff: 1506
+14.02.2015 14:15:04 Timeout. Please reconnect
+14.02.2015 14:15:38 Connect to: 192.168.2.111
+14.02.2015 14:15:38 Sent: Change resolution to -1.
+14.02.2015 14:15:38 Resolution settings were sent
+14.02.2015 14:15:52 CarDuinoDroid closed.

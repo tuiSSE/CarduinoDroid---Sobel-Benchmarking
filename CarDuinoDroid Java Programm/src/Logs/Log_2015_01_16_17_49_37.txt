@@ -1,0 +1,17 @@
+16.01.2015 17:49:37 No Rumblers found
+16.01.2015 17:49:53 Connect to: 192.168.2.108
+16.01.2015 17:49:54 Sent: Change resolution to -1.
+16.01.2015 17:49:54 Resolution settings were sent
+16.01.2015 17:50:24 Sent: Change resolution to 12.
+16.01.2015 17:50:24 Resolution settings were sent
+16.01.2015 17:50:27 Sent: Change quality to 100.
+16.01.2015 17:50:27 Quality has been changed
+16.01.2015 17:50:48 Sent: Change quality to 96.
+16.01.2015 17:50:48 Quality has been changed
+16.01.2015 17:50:56 Edge Detection 1
+16.01.2015 17:52:09 Timeout. Please reconnect
+17.01.2015 06:46:20 Connect to: 192.168.2.108
+17.01.2015 06:46:20 Socket_Picture - Fehler beim Verbinden
+17.01.2015 06:46:20 Socket_Controller - Fehler beim Verbinden
+17.01.2015 06:46:20 Socket_Package - Fehler beim Verbinden
+17.01.2015 06:46:30 Timeout. Please reconnect

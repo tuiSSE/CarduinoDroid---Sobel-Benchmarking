@@ -1,0 +1,15 @@
+06.05.2014 14:08:15 No Rumblers found
+06.05.2014 14:09:16 Connect to: 141.24.110.50
+06.05.2014 14:09:16 Sent: Change resolution to -1.
+06.05.2014 14:09:16 Resolution settings were sent
+06.05.2014 14:09:48 Sent: Change resolution to 2.
+06.05.2014 14:09:48 Resolution settings were sent
+06.05.2014 14:09:55 Sent: Change resolution to 1.
+06.05.2014 14:09:55 Resolution settings were sent
+06.05.2014 14:10:01 Sent: Change resolution to 4.
+06.05.2014 14:10:01 Resolution settings were sent
+06.05.2014 14:10:09 Sent: Change resolution to 8.
+06.05.2014 14:10:09 Resolution settings were sent
+06.05.2014 14:10:17 Sent: Change resolution to 2.
+06.05.2014 14:10:17 Resolution settings were sent
+06.05.2014 14:10:21 CarDuinoDroid closed.

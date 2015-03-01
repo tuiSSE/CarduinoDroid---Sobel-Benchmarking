@@ -1,0 +1,18 @@
+<map id="Controller.Sound_Output" name="Controller.Sound_Output">
+<area shape="rect" id="node2" href="$class_controller_1_1_controller___computer.html" title="Controller.Controller\l_Computer" alt="" coords="555,1270,696,1311"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_packagedata.html" title="Controller.Packagedata" alt="" coords="906,1328,1067,1355"/>
+<area shape="rect" id="node8" href="$class_controller_1_1_soundrecording.html" title="Controller.Soundrecording" alt="" coords="898,1271,1075,1297"/>
+<area shape="rect" id="node9" href="$class_view_1_1_g_u_i___computer.html" title="View.GUI_Computer" alt="" coords="915,523,1059,549"/>
+<area shape="rect" id="node20" href="$class_controller_1_1_network.html" title="Controller.Network" alt="" coords="1265,1679,1397,1705"/>
+<area shape="rect" id="node27" href="$class_controller_1_1_camera___picture.html" title="Controller.Camera_Picture" alt="" coords="897,1527,1077,1553"/>
+<area shape="rect" id="node30" href="$class_controller_1_1_g_p_s___map.html" title="Controller.GPS_Map" alt="" coords="914,1005,1059,1032"/>
+<area shape="rect" id="node31" href="$class_controller_1_1_car___controller.html" title="Controller.Car_Controller" alt="" coords="901,2264,1072,2291"/>
+<area shape="rect" id="node38" href="$class_controller_1_1_camera___settings.html" title="Controller.Camera_Settings" alt="" coords="893,1077,1080,1104"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_performance___analyzer.html" title="Controller.Performance\l_Analyzer" alt="" coords="203,1693,363,1734"/>
+<area shape="rect" id="node5" href="$class_model_1_1_g_p_s_track.html" title="Model.GPSTrack" alt="" coords="221,1119,345,1145"/>
+<area shape="rect" id="node16" href="$class_model_1_1_log.html" title="Model.Log" alt="" coords="1289,523,1373,549"/>
+<area shape="rect" id="node21" href="$class_controller_1_1_socket___performance___analyzer.html" title="Controller.Socket_Performance\l_Analyzer" alt="" coords="883,1827,1091,1869"/>
+<area shape="rect" id="node24" href="$class_controller_1_1_socket___controller.html" title="Controller.Socket_Controller" alt="" coords="892,2083,1081,2109"/>
+<area shape="rect" id="node29" href="$class_controller_1_1_socket___package.html" title="Controller.Socket_Package" alt="" coords="1547,1747,1731,1773"/>
+<area shape="rect" id="node25" href="$class_controller_1_1_socket___picture.html" title="Controller.Socket_Picture" alt="" coords="1552,2052,1725,2079"/>
+</map>

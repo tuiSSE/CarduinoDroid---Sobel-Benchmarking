@@ -1,0 +1,8 @@
+<map id="View.Connect_ActionListener.actionPerformed" name="View.Connect_ActionListener.actionPerformed">
+<area shape="rect" id="node2" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="565,5,715,32"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_network.html#ae67ed03163a7a45ab5d76e375121f6f0" title="Controller.Network.connect" alt="" coords="289,95,472,121"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_socket___picture.html#ab87a7b12f3233d51c057cfb7aae5768e" title="Controller.Socket_Picture.connect" alt="" coords="528,56,752,83"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_socket___controller.html#a29b570104991b9a087f5a100c8cf368e" title="Controller.Socket_Controller.connect" alt="" coords="520,107,760,133"/>
+<area shape="rect" id="node6" href="$class_controller_1_1_socket___package.html#a691129a16fdcb40d2a0b1722872ae668" title="Controller.Socket_Package.connect" alt="" coords="523,157,757,184"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_socket___performance___analyzer.html#a2af2a2e218c97f0e16641d8768e817f9" title="Controller.Socket_Performance\l_Analyzer.connect" alt="" coords="536,209,744,250"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="View.GUI_Computer.GUI_Computer" name="View.GUI_Computer.GUI_Computer">
+<area shape="rect" id="node2" href="$class_model_1_1_g_p_s_track.html#a6e20856dcc9e383b7251cca5d65ab4ad" title="Model.GPSTrack.savegpxfile" alt="" coords="225,5,419,32"/>
+<area shape="rect" id="node3" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="247,56,397,83"/>
+</map>

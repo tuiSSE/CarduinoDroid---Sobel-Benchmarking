@@ -1,0 +1,7 @@
+21.01.2015 09:29:15 No Rumblers found
+21.01.2015 09:29:23 Connect to: 192.168.2.108
+21.01.2015 09:29:23 Sent: Change resolution to -1.
+21.01.2015 09:29:23 Resolution settings were sent
+21.01.2015 09:29:37 Timestamp requested
+21.01.2015 09:29:37 Could not receive Timestamp
+21.01.2015 09:30:28 Timeout. Please reconnect

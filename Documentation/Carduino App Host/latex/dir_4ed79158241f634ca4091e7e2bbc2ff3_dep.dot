@@ -1,0 +1,13 @@
+digraph "obj/local/armeabi" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_19474f554ddfd0bad0a6fc7c0345a900 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="local" fontname="Helvetica", fontsize="10", URL="dir_19474f554ddfd0bad0a6fc7c0345a900.html"]
+  subgraph clusterdir_4ed79158241f634ca4091e7e2bbc2ff3 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_4ed79158241f634ca4091e7e2bbc2ff3.html"];
+    dir_4ed79158241f634ca4091e7e2bbc2ff3 [shape=plaintext label="armeabi"];
+    dir_ce0442197ac8f57af0eee7d47ec314da [shape=box label="objs" color="red" fillcolor="white" style="filled" URL="dir_ce0442197ac8f57af0eee7d47ec314da.html"];
+  }
+  }
+}

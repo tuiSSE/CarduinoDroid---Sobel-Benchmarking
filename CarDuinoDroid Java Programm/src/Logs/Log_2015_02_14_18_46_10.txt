@@ -1,0 +1,96 @@
+14.02.2015 18:46:11 No Rumblers found
+14.02.2015 18:46:19 Connect to: 192.168.2.111
+14.02.2015 18:46:19 Sent: Change resolution to -1.
+14.02.2015 18:46:19 Resolution settings were sent
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 8
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 8
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 7
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 6
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 8
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 17
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 11
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 20
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 9
+14.02.2015 18:46:22 Timestamp requested
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Could not receive Timestamp
+14.02.2015 18:46:22 Timestamp received
+14.02.2015 18:46:22 rtt: 44
+14.02.2015 18:46:22 timediff: 876
+14.02.2015 18:49:36 CarDuinoDroid closed.

@@ -1,0 +1,41 @@
+17.01.2015 10:15:20 No Rumblers found
+17.01.2015 10:15:30 Connect to: 192.168.2.108
+17.01.2015 10:15:30 Sent: Change resolution to -1.
+17.01.2015 10:15:30 Resolution settings were sent
+17.01.2015 10:16:12 Timeout. Please reconnect
+17.01.2015 10:36:27 Connect to: 192.168.2.108
+17.01.2015 10:36:27 Sent: Change resolution to -1.
+17.01.2015 10:36:27 Resolution settings were sent
+17.01.2015 10:36:39 Sent: Change resolution to 0.
+17.01.2015 10:36:39 Resolution settings were sent
+17.01.2015 10:36:48 Sent: Change quality to 1.
+17.01.2015 10:36:48 Quality has been changed
+17.01.2015 10:38:15 Timeout. Please reconnect
+18.01.2015 09:58:05 Connect to: 192.168.2.108
+18.01.2015 09:58:05 Sent: Change resolution to -1.
+18.01.2015 09:58:05 Resolution settings were sent
+18.01.2015 10:02:29 Timeout. Please reconnect
+18.01.2015 10:05:14 Connect to: 192.168.2.108
+18.01.2015 10:05:14 Sent: Change resolution to -1.
+18.01.2015 10:05:14 Resolution settings were sent
+18.01.2015 10:07:17 Timeout. Please reconnect
+18.01.2015 10:13:07 Connect to: 192.168.2.108
+18.01.2015 10:13:09 Sent: Change resolution to -1.
+18.01.2015 10:13:09 Resolution settings were sent
+18.01.2015 10:14:39 Timeout. Please reconnect
+18.01.2015 10:14:43 Connect to: 192.168.2.108
+18.01.2015 10:14:43 Sent: Change resolution to -1.
+18.01.2015 10:14:43 Resolution settings were sent
+18.01.2015 10:16:34 Sent: Change quality to 1.
+18.01.2015 10:16:34 Quality has been changed
+18.01.2015 10:17:31 Sent: Change quality to 100.
+18.01.2015 10:17:31 Quality has been changed
+18.01.2015 10:18:33 Timeout. Please reconnect
+18.01.2015 10:23:23 Connect to: 192.168.2.108
+18.01.2015 10:23:23 Sent: Change resolution to -1.
+18.01.2015 10:23:23 Resolution settings were sent
+18.01.2015 10:26:03 Sent: Change resolution to 12.
+18.01.2015 10:26:03 Resolution settings were sent
+18.01.2015 10:26:06 Sent: Change quality to 1.
+18.01.2015 10:26:06 Quality has been changed
+18.01.2015 10:51:50 Timeout. Please reconnect

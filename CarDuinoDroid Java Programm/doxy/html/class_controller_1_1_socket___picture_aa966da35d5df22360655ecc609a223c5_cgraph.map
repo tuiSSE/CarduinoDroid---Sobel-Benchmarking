@@ -1,0 +1,13 @@
+<map id="Controller.Socket_Picture.connect" name="Controller.Socket_Picture.connect">
+<area shape="rect" id="node2" href="$class_controller_1_1_socket___picture.html#a7dd51a154509634a49d6fe67b1da78a6" title="Controller.Socket_Picture.run" alt="" coords="277,111,473,138"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_network.html#a124b367a9c620d675753ec40c6de9ddc" title="Controller.Network.receive\l_picture" alt="" coords="521,39,700,80"/>
+<area shape="rect" id="node8" href="$class_controller_1_1_network.html#ad1be957b9e2d12a1450be8b323178ad7" title="Controller.Network.receive\l_frameRate" alt="" coords="521,104,700,145"/>
+<area shape="rect" id="node10" href="$class_controller_1_1_network.html#a88c1d505e5b01fc3320c53613e869eb4" title="Controller.Network.receive\l_absoluteDelay" alt="" coords="521,169,700,211"/>
+<area shape="rect" id="node4" href="$class_controller_1_1_camera___picture.html#a6c023933f9516c247c15326db445966c" title="Controller.Camera_Picture.receive\l_picture" alt="" coords="748,39,975,80"/>
+<area shape="rect" id="node5" href="$class_controller_1_1_camera___picture.html#a8238414f569f7b746f538415c19580ee" title="Controller.Camera_Picture.\lLoadPicture" alt="" coords="1023,39,1207,80"/>
+<area shape="rect" id="node6" href="$class_view_1_1_g_u_i___computer.html#acc65644bbd63b984257392af1c123f2a" title="View.GUI_Computer.getPanel\lHeight" alt="" coords="1255,5,1455,47"/>
+<area shape="rect" id="node7" href="$class_controller_1_1_packagedata.html#a6a3a7e30e19292cc38188365e206a5a1" title="Controller.Packagedata.Get\lBatteryLevel" alt="" coords="1261,71,1448,112"/>
+<area shape="rect" id="node9" href="$class_controller_1_1_camera___picture.html#afe733efc2cf1f1fe71141b4c466c2674" title="Controller.Camera_Picture.receive\l_frameRate" alt="" coords="748,104,975,145"/>
+<area shape="rect" id="node11" href="$class_controller_1_1_socket___picture.html#af59ea1eb18e896ad8a1521d555908248" title="Controller.Socket_Picture.get\lDelay" alt="" coords="763,169,959,211"/>
+<area shape="rect" id="node12" href="$class_controller_1_1_camera___picture.html#a3883b0d69985579ea902b4e45a7bbb40" title="Controller.Camera_Picture.receive\l_Absolute_Delay" alt="" coords="748,235,975,276"/>
+</map>

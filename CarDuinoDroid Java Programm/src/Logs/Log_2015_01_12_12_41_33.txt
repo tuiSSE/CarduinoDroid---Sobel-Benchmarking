@@ -1,0 +1,194 @@
+12.01.2015 12:41:33 No Rumblers found
+12.01.2015 12:41:46 Connect to: 192.168.2.108
+12.01.2015 12:41:46 Sent: Change resolution to -1.
+12.01.2015 12:41:46 Resolution settings were sent
+12.01.2015 12:42:02 Sent: Change resolution to 12.
+12.01.2015 12:42:02 Resolution settings were sent
+12.01.2015 12:42:42 Timeout. Please reconnect
+12.01.2015 12:44:16 Connect to: 192.168.2.108
+12.01.2015 12:44:17 Sent: Change resolution to -1.
+12.01.2015 12:44:17 Resolution settings were sent
+12.01.2015 12:44:30 Sent: Change resolution to 12.
+12.01.2015 12:44:30 Resolution settings were sent
+12.01.2015 12:44:42 Sent: Change quality to 100.
+12.01.2015 12:44:42 Quality has been changed
+12.01.2015 12:45:13 Sent: Change quality to 95.
+12.01.2015 12:45:13 Quality has been changed
+12.01.2015 12:45:23 Edge Detection 1
+12.01.2015 12:46:15 Edge Detection 0
+12.01.2015 12:46:19 Timeout. Please reconnect
+12.01.2015 12:46:23 Connect to: 192.168.2.108
+12.01.2015 12:46:23 Sent: Change resolution to -1.
+12.01.2015 12:46:23 Resolution settings were sent
+12.01.2015 12:46:31 Edge Detection 1
+12.01.2015 12:46:50 Sent: Change resolution to 12.
+12.01.2015 12:46:50 Resolution settings were sent
+12.01.2015 12:46:58 Sent: Change quality to 1.
+12.01.2015 12:46:58 Quality has been changed
+12.01.2015 12:47:16 Sent: Change resolution to 3.
+12.01.2015 12:47:16 Resolution settings were sent
+12.01.2015 12:47:33 Edge Detection 0
+12.01.2015 12:47:40 Edge Detection 1
+12.01.2015 12:47:52 Edge Detection 0
+12.01.2015 12:47:54 Edge Detection 1
+12.01.2015 12:47:55 Edge Detection 0
+12.01.2015 12:48:01 Edge Detection 1
+12.01.2015 12:48:02 Edge Detection 0
+12.01.2015 12:48:03 Edge Detection 1
+12.01.2015 12:48:05 Edge Detection 0
+12.01.2015 12:48:07 Edge Detection 1
+12.01.2015 12:48:10 Edge Detection 0
+12.01.2015 12:48:42 Timeout. Please reconnect
+12.01.2015 14:46:03 Connect to: 192.168.2.108
+12.01.2015 14:46:03 Sent: Change resolution to -1.
+12.01.2015 14:46:03 Resolution settings were sent
+12.01.2015 14:47:32 Timeout. Please reconnect
+12.01.2015 14:47:42 Connect to: 192.168.2.108
+12.01.2015 14:47:42 Sent: Change resolution to -1.
+12.01.2015 14:47:42 Resolution settings were sent
+12.01.2015 14:48:16 Timeout. Please reconnect
+12.01.2015 14:48:35 Connect to: 192.168.2.108
+12.01.2015 14:48:35 Sent: Change resolution to -1.
+12.01.2015 14:48:35 Resolution settings were sent
+12.01.2015 14:50:04 Timeout. Please reconnect
+12.01.2015 14:50:15 Connect to: 192.168.2.108
+12.01.2015 14:50:16 Sent: Change resolution to -1.
+12.01.2015 14:50:16 Resolution settings were sent
+12.01.2015 14:51:49 Timeout. Please reconnect
+12.01.2015 14:52:01 Connect to: 192.168.2.108
+12.01.2015 14:52:01 Sent: Change resolution to -1.
+12.01.2015 14:52:01 Resolution settings were sent
+12.01.2015 14:52:14 Edge Detection 1
+12.01.2015 14:52:27 Edge Detection 0
+12.01.2015 14:55:01 Timeout. Please reconnect
+12.01.2015 14:55:22 Connect to: 192.168.2.108
+12.01.2015 14:55:22 Sent: Change resolution to -1.
+12.01.2015 14:55:22 Resolution settings were sent
+12.01.2015 14:55:37 Sent: Change resolution to 3.
+12.01.2015 14:55:37 Resolution settings were sent
+12.01.2015 15:06:46 Timeout. Please reconnect
+12.01.2015 15:06:58 Connect to: 192.168.2.108
+12.01.2015 15:06:59 Sent: Change resolution to -1.
+12.01.2015 15:06:59 Resolution settings were sent
+12.01.2015 15:13:46 Timeout. Please reconnect
+12.01.2015 15:13:52 Connect to: 192.168.2.108
+12.01.2015 15:13:52 Sent: Change resolution to -1.
+12.01.2015 15:13:52 Resolution settings were sent
+12.01.2015 15:18:06 Timeout. Please reconnect
+12.01.2015 15:18:15 Connect to: 192.168.2.108
+12.01.2015 15:18:16 Sent: Change resolution to -1.
+12.01.2015 15:18:16 Resolution settings were sent
+12.01.2015 15:21:31 Timeout. Please reconnect
+12.01.2015 15:21:50 Connect to: 192.168.2.108
+12.01.2015 15:21:50 Sent: Change resolution to -1.
+12.01.2015 15:21:50 Resolution settings were sent
+12.01.2015 15:22:07 Edge Detection 1
+12.01.2015 15:26:20 Timeout. Please reconnect
+12.01.2015 15:26:36 Connect to: 192.168.2.108
+12.01.2015 15:26:36 Sent: Change resolution to -1.
+12.01.2015 15:26:36 Resolution settings were sent
+12.01.2015 15:44:20 Timeout. Please reconnect
+12.01.2015 15:44:22 Connect to: 192.168.2.108
+12.01.2015 15:44:22 Sent: Change resolution to -1.
+12.01.2015 15:44:22 Resolution settings were sent
+12.01.2015 15:45:01 Timeout. Please reconnect
+12.01.2015 15:46:39 Connect to: 192.168.2.108
+12.01.2015 15:46:39 Socket_Picture - Fehler beim Verbinden
+12.01.2015 15:46:39 Socket_Controller - Fehler beim Verbinden
+12.01.2015 15:46:39 Socket_Package - Fehler beim Verbinden
+12.01.2015 15:46:49 Timeout. Please reconnect
+12.01.2015 15:47:40 Connect to: 192.168.2.108
+12.01.2015 15:47:42 Sent: Change resolution to -1.
+12.01.2015 15:47:42 Resolution settings were sent
+12.01.2015 15:48:13 Timeout. Please reconnect
+12.01.2015 17:45:31 Connect to: 192.168.2.108
+12.01.2015 17:45:31 Sent: Change resolution to -1.
+12.01.2015 17:45:31 Resolution settings were sent
+12.01.2015 17:45:34 Edge Detection 0
+12.01.2015 17:45:37 Edge Detection 1
+12.01.2015 17:46:41 Timeout. Please reconnect
+13.01.2015 10:07:38 Connect to: 192.168.2.108
+13.01.2015 10:07:38 Sent: Change resolution to -1.
+13.01.2015 10:07:38 Resolution settings were sent
+13.01.2015 10:10:29 Timeout. Please reconnect
+13.01.2015 10:10:49 Connect to: 192.168.2.108
+13.01.2015 10:10:50 Sent: Change resolution to -1.
+13.01.2015 10:10:50 Resolution settings were sent
+13.01.2015 10:18:25 Timeout. Please reconnect
+13.01.2015 10:18:34 Connect to: 192.168.2.108
+13.01.2015 10:18:34 Sent: Change resolution to -1.
+13.01.2015 10:18:34 Resolution settings were sent
+13.01.2015 10:21:22 Timeout. Please reconnect
+13.01.2015 10:21:46 Connect to: 192.168.2.108
+13.01.2015 10:21:46 Sent: Change resolution to -1.
+13.01.2015 10:21:46 Resolution settings were sent
+13.01.2015 10:49:37 Timeout. Please reconnect
+13.01.2015 10:53:29 Connect to: 192.168.2.108
+13.01.2015 10:53:29 Sent: Change resolution to -1.
+13.01.2015 10:53:29 Resolution settings were sent
+13.01.2015 10:53:35 Edge Detection 0
+13.01.2015 10:53:36 Edge Detection 1
+13.01.2015 10:53:54 Edge Detection 0
+13.01.2015 10:54:01 Edge Detection 1
+13.01.2015 10:54:04 Edge Detection 0
+13.01.2015 10:59:42 Timeout. Please reconnect
+13.01.2015 10:59:50 Connect to: 192.168.2.108
+13.01.2015 10:59:50 Sent: Change resolution to -1.
+13.01.2015 10:59:50 Resolution settings were sent
+13.01.2015 10:59:53 Edge Detection 1
+13.01.2015 11:00:06 Edge Detection 0
+13.01.2015 11:00:13 Edge Detection 1
+13.01.2015 11:00:30 Timeout. Please reconnect
+13.01.2015 11:03:36 Connect to: 192.168.2.108
+13.01.2015 11:03:36 Sent: Change resolution to -1.
+13.01.2015 11:03:36 Resolution settings were sent
+13.01.2015 11:06:28 Timeout. Please reconnect
+13.01.2015 11:06:34 Connect to: 192.168.2.108
+13.01.2015 11:06:34 Sent: Change resolution to -1.
+13.01.2015 11:06:34 Resolution settings were sent
+13.01.2015 11:06:45 Timeout. Please reconnect
+13.01.2015 11:13:13 Connect to: 192.168.2.108
+13.01.2015 11:13:13 Sent: Change resolution to -1.
+13.01.2015 11:13:13 Resolution settings were sent
+13.01.2015 11:13:17 Edge Detection 0
+13.01.2015 11:13:20 Edge Detection 1
+13.01.2015 11:14:08 Timeout. Please reconnect
+13.01.2015 11:15:27 Connect to: 192.168.2.108
+13.01.2015 11:15:27 Sent: Change resolution to -1.
+13.01.2015 11:15:27 Resolution settings were sent
+13.01.2015 11:16:49 Timeout. Please reconnect
+13.01.2015 11:16:59 Connect to: 192.168.2.108
+13.01.2015 11:16:59 Sent: Change resolution to -1.
+13.01.2015 11:16:59 Resolution settings were sent
+13.01.2015 11:17:10 Edge Detection 0
+13.01.2015 11:17:11 Edge Detection 1
+13.01.2015 11:18:05 Timeout. Please reconnect
+13.01.2015 11:19:28 Connect to: 192.168.2.108
+13.01.2015 11:19:29 Sent: Change resolution to -1.
+13.01.2015 11:19:29 Resolution settings were sent
+13.01.2015 11:19:52 Timeout. Please reconnect
+13.01.2015 11:19:54 Connect to: 192.168.2.108
+13.01.2015 11:19:54 Sent: Change resolution to -1.
+13.01.2015 11:19:54 Resolution settings were sent
+13.01.2015 11:19:57 Edge Detection 0
+13.01.2015 11:19:58 Edge Detection 1
+13.01.2015 11:20:33 Timeout. Please reconnect
+13.01.2015 11:21:47 Connect to: 192.168.2.108
+13.01.2015 11:21:48 Sent: Change resolution to -1.
+13.01.2015 11:21:48 Resolution settings were sent
+13.01.2015 11:21:50 Edge Detection 0
+13.01.2015 11:21:51 Edge Detection 1
+13.01.2015 11:22:44 Timeout. Please reconnect
+13.01.2015 11:23:26 Connect to: 192.168.2.108
+13.01.2015 11:23:26 Sent: Change resolution to -1.
+13.01.2015 11:23:26 Resolution settings were sent
+13.01.2015 11:23:29 Edge Detection 0
+13.01.2015 11:23:29 Edge Detection 1
+13.01.2015 11:25:49 Timeout. Please reconnect
+13.01.2015 11:37:14 Connect to: 192.168.2.108
+13.01.2015 11:37:16 Sent: Change resolution to -1.
+13.01.2015 11:37:16 Resolution settings were sent
+13.01.2015 11:37:18 Edge Detection 0
+13.01.2015 11:37:19 Edge Detection 1
+13.01.2015 11:37:58 Timeout. Please reconnect
+13.01.2015 11:38:12 CarDuinoDroid closed.

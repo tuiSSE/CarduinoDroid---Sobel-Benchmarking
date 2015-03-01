@@ -1,0 +1,5 @@
+<map id="Controller.Sound_Output.send_output_soundsignal" name="Controller.Sound_Output.send_output_soundsignal">
+<area shape="rect" id="node2" href="$class_controller_1_1_network.html#a0cd2bef3e6087ab3ab39d28b4a57db35" title="Controller.Network.send\l_sound" alt="" coords="256,5,421,47"/>
+<area shape="rect" id="node4" href="$class_model_1_1_log.html#af78cab944fbd65179f84beb4dc0b091a" title="Model.Log.writelogfile" alt="" coords="263,71,414,98"/>
+<area shape="rect" id="node3" href="$class_controller_1_1_socket___controller.html#a2df08fcd76b146de308fa5a0e117cb34" title="Controller.Socket_Controller.send\l_sound" alt="" coords="469,5,692,47"/>
+</map>

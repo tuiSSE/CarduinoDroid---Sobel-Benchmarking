@@ -1,0 +1,9 @@
+digraph "bin/classes/swp/tuilmenau/carduinodroid/model" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_2b222037388aa1b3eabc30027a228f81 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="carduinodroid" fontname="Helvetica", fontsize="10", URL="dir_2b222037388aa1b3eabc30027a228f81.html"]
+  dir_d641561e48e4307133285fdd821ba239 [shape=box, label="model", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_d641561e48e4307133285fdd821ba239.html"];
+  }
+}

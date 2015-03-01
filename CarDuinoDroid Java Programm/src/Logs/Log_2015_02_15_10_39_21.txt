@@ -1,0 +1,36 @@
+15.02.2015 10:39:21 No Rumblers found
+15.02.2015 10:39:28 Connect to: 192.168.2.111
+15.02.2015 10:39:29 Sent: Change resolution to -1.
+15.02.2015 10:39:29 Resolution settings were sent
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 54
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 4
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 5
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 4
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 5
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 6
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 5
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 6
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 20
+15.02.2015 10:40:08 Timestamp requested
+15.02.2015 10:40:08 Timestamp received
+15.02.2015 10:40:08 rtt: 13
+15.02.2015 10:40:08 timediff: 1401
+15.02.2015 10:54:46 Timeout. Please reconnect

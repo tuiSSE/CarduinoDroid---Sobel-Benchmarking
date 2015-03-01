@@ -1,0 +1,50 @@
+12.01.2015 10:09:55 No Rumblers found
+12.01.2015 10:10:11 Connect to: 192.168.2.108
+12.01.2015 10:10:11 Sent: Change resolution to -1.
+12.01.2015 10:10:11 Resolution settings were sent
+12.01.2015 10:10:20 Edge Detection 1
+12.01.2015 10:10:26 Sent: Change resolution to 3.
+12.01.2015 10:10:26 Resolution settings were sent
+12.01.2015 10:11:13 Timeout. Please reconnect
+12.01.2015 10:11:47 Connect to: 192.168.2.108
+12.01.2015 10:11:47 Sent: Change resolution to -1.
+12.01.2015 10:11:47 Resolution settings were sent
+12.01.2015 10:12:28 Edge Detection 0
+12.01.2015 10:12:49 Edge Detection 1
+12.01.2015 10:14:13 Edge Detection 0
+12.01.2015 10:15:34 Edge Detection 1
+12.01.2015 10:16:00 Sent: Change resolution to 3.
+12.01.2015 10:16:00 Resolution settings were sent
+12.01.2015 10:17:21 Timeout. Please reconnect
+12.01.2015 11:37:16 Connect to: 192.168.2.108
+12.01.2015 11:37:16 Sent: Change resolution to -1.
+12.01.2015 11:37:16 Resolution settings were sent
+12.01.2015 11:37:22 Edge Detection 0
+12.01.2015 11:37:23 Edge Detection 1
+12.01.2015 11:37:26 Sent: Change resolution to 3.
+12.01.2015 11:37:26 Resolution settings were sent
+12.01.2015 11:37:41 Sent: Change resolution to 2.
+12.01.2015 11:37:41 Resolution settings were sent
+12.01.2015 11:37:53 Timeout. Please reconnect
+12.01.2015 11:38:04 Connect to: 192.168.2.108
+12.01.2015 11:38:04 Sent: Change resolution to -1.
+12.01.2015 11:38:04 Resolution settings were sent
+12.01.2015 11:38:09 Edge Detection 0
+12.01.2015 11:38:18 Sent: Change resolution to 12.
+12.01.2015 11:38:18 Resolution settings were sent
+12.01.2015 11:38:26 Edge Detection 1
+12.01.2015 11:38:55 Timeout. Please reconnect
+12.01.2015 11:44:05 Connect to: 192.168.2.108
+12.01.2015 11:44:05 Sent: Change resolution to -1.
+12.01.2015 11:44:05 Resolution settings were sent
+12.01.2015 11:44:09 Sent: Change resolution to 3.
+12.01.2015 11:44:09 Resolution settings were sent
+12.01.2015 11:44:13 Edge Detection 0
+12.01.2015 11:44:15 Edge Detection 1
+12.01.2015 11:44:29 Sent: Change resolution to 0.
+12.01.2015 11:44:29 Resolution settings were sent
+12.01.2015 11:44:37 Sent: Change resolution to 3.
+12.01.2015 11:44:37 Resolution settings were sent
+12.01.2015 11:44:43 Sent: Change resolution to 12.
+12.01.2015 11:44:43 Resolution settings were sent
+12.01.2015 11:45:28 Timeout. Please reconnect

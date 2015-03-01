@@ -1,0 +1,14 @@
+digraph "src/swp/tuilmenau/carduinodroid" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_15a7b6649a3bcba43bb034b06d1ae2ed {
+    graph [ bgcolor="#ddddee", pencolor="black", label="tuilmenau" fontname="Helvetica", fontsize="10", URL="dir_15a7b6649a3bcba43bb034b06d1ae2ed.html"]
+  subgraph clusterdir_101b8102373a8be8446892817550711e {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_101b8102373a8be8446892817550711e.html"];
+    dir_101b8102373a8be8446892817550711e [shape=plaintext label="carduinodroid"];
+    dir_325055e8cf18a4458003df6fa31545d1 [shape=box label="controller" color="black" fillcolor="white" style="filled" URL="dir_325055e8cf18a4458003df6fa31545d1.html"];
+    dir_3af4b0ba82cb186449c51b945d0448d2 [shape=box label="model" color="black" fillcolor="white" style="filled" URL="dir_3af4b0ba82cb186449c51b945d0448d2.html"];
+  }
+  }
+}
